@@ -1,0 +1,1620 @@
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00002062image002.png
+403	20.58843421936	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00002062image011.png
+403	14.878600120544	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00002062image013.png
+403	19.974822998047	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00004501image002.png
+403	6.6350350379944	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00004501image011.png
+403	4.027970790863	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00004501image013.png
+403	5.2029714584351	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013470image002.png
+403	19.11773109436	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013470image011.png
+403	18.070690155029	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013470image013.png
+403	20.397542953491	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013668image002.png
+403	18.703372955322	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013668image011.png
+403	11.139855384827	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00013668image013.png
+403	17.376049041748	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019450image002.png
+403	6.9158835411072	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019450image011.png
+403	3.7477054595947	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019450image013.png
+403	5.8111619949341	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019484image002.png
+403	16.065906524658	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019484image011.png
+403	13.085098266602	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00019484image013.png
+403	17.165622711182	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00021282image002.png
+403	23.910486221313	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00021282image011.png
+403	15.686573982239	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00021282image013.png
+403	21.413602828979	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00025639image002.png
+403	12.834759712219	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00025639image011.png
+403	6.0241918563843	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00025639image013.png
+403	14.495871543884	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00030420image002.png
+403	9.3409633636475	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00030420image011.png
+403	2.9487411975861	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00030420image013.png
+403	5.3922863006592	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00036762image002.png
+403	13.052066802979	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00036762image011.png
+403	12.999466896057	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/403/ILSVRC2012_val_00036762image013.png
+403	14.217664718628	acoustic guitar
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00001952image001.png
+405	12.164755821228	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00001952image005.png
+405	14.92373085022	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00001952image007.png
+405	16.715881347656	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00010597image001.png
+405	9.7838373184204	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00010597image005.png
+405	11.158306121826	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00010597image007.png
+405	15.776874542236	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00018685image001.png
+405	17.090002059937	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00018685image005.png
+405	17.758724212646	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00018685image007.png
+405	18.580522537231	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00022975image001.png
+405	14.5211353302	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00022975image005.png
+405	14.914456367493	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00022975image007.png
+405	17.419946670532	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00023316image001.png
+405	9.6740713119507	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00023316image005.png
+405	13.927429199219	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00023316image007.png
+405	17.642553329468	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00026859image001.png
+405	8.5041275024414	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00026859image005.png
+405	11.171419143677	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00026859image007.png
+405	17.986238479614	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00033920image001.png
+405	18.108062744141	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00033920image005.png
+405	18.970502853394	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00033920image007.png
+405	19.356962203979	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00034342image001.png
+405	16.387187957764	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00034342image005.png
+405	17.44063949585	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00034342image007.png
+405	20.255344390869	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00036394image001.png
+405	14.855485916138	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00036394image005.png
+405	16.79673576355	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00036394image007.png
+405	17.687570571899	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00048111image001.png
+405	17.748035430908	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00048111image005.png
+405	18.176424026489	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/405/ILSVRC2012_val_00048111image007.png
+405	22.172323226929	airliner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00005080image011.png
+436	11.53866481781	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00005080image023.png
+436	14.593063354492	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00005080image065.png
+436	15.151125907898	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00012591image011.png
+436	13.310005187988	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00012591image023.png
+436	18.069761276245	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00012591image065.png
+436	16.63542175293	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015979image011.png
+436	15.675442695618	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015979image023.png
+436	19.183145523071	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015979image065.png
+436	20.634229660034	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015996image011.png
+436	17.82360458374	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015996image023.png
+436	20.450063705444	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00015996image065.png
+436	19.187265396118	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00016365image011.png
+436	14.477565765381	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00016365image023.png
+436	20.601362228394	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00016365image065.png
+436	17.869930267334	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00017804image011.png
+436	13.368215560913	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00017804image023.png
+436	13.682823181152	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00017804image065.png
+436	13.769069671631	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00038234image011.png
+436	13.369393348694	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00038234image023.png
+436	12.316526412964	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00038234image065.png
+436	15.158941268921	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00042102image011.png
+436	12.69012260437	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00042102image023.png
+436	14.535861968994	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00042102image065.png
+436	14.715385437012	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00048621image011.png
+436	10.379811286926	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00048621image023.png
+436	12.909292221069	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00048621image065.png
+436	12.666502952576	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00049673image011.png
+436	16.626663208008	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00049673image023.png
+436	17.627559661865	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/436/ILSVRC2012_val_00049673image065.png
+436	18.872287750244	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00001630image003.png
+449	8.8131742477417	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00001630image017.png
+449	10.674461364746	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00001630image027.png
+449	10.504592895508	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00003952image003.png
+449	15.647252082825	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00003952image017.png
+449	11.933373451233	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00003952image027.png
+449	14.835460662842	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00012648image003.png
+449	16.772340774536	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00012648image017.png
+449	23.554769515991	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00012648image027.png
+449	24.003248214722	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00015956image003.png
+449	5.908588886261	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00015956image017.png
+449	7.1662654876709	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00015956image027.png
+449	9.2076034545898	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00025965image003.png
+449	14.832763671875	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00025965image017.png
+449	14.481507301331	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00025965image027.png
+449	17.286678314209	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00027688image003.png
+449	12.483332633972	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00027688image017.png
+449	13.973844528198	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00027688image027.png
+449	15.303490638733	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00028359image003.png
+449	16.303833007812	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00028359image017.png
+449	15.703058242798	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00028359image027.png
+449	20.106426239014	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00032543image003.png
+449	8.2967081069946	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00032543image017.png
+449	14.089283943176	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00032543image027.png
+449	15.264180183411	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00034726image003.png
+449	14.612271308899	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00034726image017.png
+449	9.2614250183105	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00034726image027.png
+449	15.277182579041	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00036900image003.png
+449	16.478656768799	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00036900image017.png
+449	17.823905944824	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/449/ILSVRC2012_val_00036900image027.png
+449	17.466032028198	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00006258image005.png
+469	10.978590011597	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00006258image015.png
+469	9.6326875686646	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00006258image021.png
+469	11.130719184875	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00021301image005.png
+469	12.284568786621	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00021301image015.png
+469	7.6879186630249	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00021301image021.png
+469	12.380249977112	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00023507image005.png
+469	14.785008430481	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00023507image015.png
+469	10.989441871643	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00023507image021.png
+469	15.880361557007	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00025244image005.png
+469	18.71148109436	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00025244image015.png
+469	20.040361404419	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00025244image021.png
+469	19.533317565918	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034269image005.png
+469	15.405079841614	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034269image015.png
+469	14.803828239441	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034269image021.png
+469	19.05259513855	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034836image005.png
+469	13.145241737366	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034836image015.png
+469	12.825568199158	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00034836image021.png
+469	17.685403823853	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00036204image005.png
+469	15.42431640625	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00036204image015.png
+469	12.468926429749	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00036204image021.png
+469	15.776838302612	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00042104image005.png
+469	17.029356002808	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00042104image015.png
+469	16.193525314331	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00042104image021.png
+469	17.560367584229	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00043903image005.png
+469	13.506881713867	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00043903image015.png
+469	15.604665756226	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00043903image021.png
+469	14.086586952209	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00044318image005.png
+469	15.68416595459	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00044318image015.png
+469	10.436360359192	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/469/ILSVRC2012_val_00044318image021.png
+469	16.738220214844	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00007245image015.png
+473	7.2989630699158	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00007245image017.png
+473	12.539653778076	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00007245image025.png
+473	15.027592658997	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00008828image015.png
+473	13.561793327332	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00008828image017.png
+473	17.829977035522	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00008828image025.png
+473	16.816108703613	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026054image015.png
+473	9.3062534332275	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026054image017.png
+473	13.226742744446	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026054image025.png
+473	14.999350547791	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026990image015.png
+473	9.0090665817261	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026990image017.png
+473	13.62514591217	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00026990image025.png
+473	16.341705322266	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028376image015.png
+473	11.013332366943	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028376image017.png
+473	14.143383026123	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028376image025.png
+473	18.382234573364	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028660image015.png
+473	5.4897089004517	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028660image017.png
+473	10.066779136658	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00028660image025.png
+473	13.383922576904	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00033316image015.png
+473	6.5490407943726	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00033316image017.png
+473	9.8706760406494	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00033316image025.png
+473	12.127558708191	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00039945image015.png
+473	10.327174186707	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00039945image017.png
+473	13.114935874939	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00039945image025.png
+473	14.398001670837	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00043133image015.png
+473	9.8740549087524	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00043133image017.png
+473	13.093476295471	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00043133image025.png
+473	16.296695709229	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00048455image015.png
+473	10.245707511902	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00048455image017.png
+473	12.721796035767	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/473/ILSVRC2012_val_00048455image025.png
+473	15.336541175842	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00005705image027.png
+488	7.2986607551575	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00005705image031.png
+488	8.551531791687	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00005705image049.png
+488	11.371544837952	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00006156image027.png
+488	9.6784639358521	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00006156image031.png
+488	13.575652122498	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00006156image049.png
+488	16.293073654175	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00008314image027.png
+488	8.4888792037964	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00008314image031.png
+488	10.534910202026	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00008314image049.png
+488	15.128214836121	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011346image027.png
+488	1.7274664640427	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011346image031.png
+488	8.1444425582886	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011346image049.png
+488	10.709008216858	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011809image027.png
+488	9.2671976089478	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011809image031.png
+488	12.033774375916	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00011809image049.png
+488	13.039260864258	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00016828image027.png
+488	4.8344321250916	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00016828image031.png
+488	11.832599639893	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00016828image049.png
+488	16.147968292236	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00028116image027.png
+488	4.1124424934387	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00028116image031.png
+488	8.2701063156128	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00028116image049.png
+488	13.3532371521	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00030872image027.png
+488	9.1075000762939	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00030872image031.png
+488	10.828016281128	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00030872image049.png
+488	13.667808532715	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00033654image027.png
+488	8.2145690917969	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00033654image031.png
+488	13.505564689636	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00033654image049.png
+488	14.192588806152	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00043042image027.png
+488	4.3698868751526	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00043042image031.png
+488	8.1310834884644	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/488/ILSVRC2012_val_00043042image049.png
+488	9.0887222290039	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00000506image004.png
+496	14.828808784485	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00000506image006.png
+496	13.782000541687	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00000506image018.png
+496	15.009439468384	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00003284image004.png
+496	17.785963058472	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00003284image006.png
+496	17.285516738892	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00003284image018.png
+496	16.646755218506	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00007272image004.png
+496	19.41707611084	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00007272image006.png
+496	19.302597045898	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00007272image018.png
+496	17.440784454346	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00015445image004.png
+496	20.417119979858	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00015445image006.png
+496	17.040958404541	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00015445image018.png
+496	18.538034439087	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00018199image004.png
+496	17.789024353027	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00018199image006.png
+496	13.952589988708	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00018199image018.png
+496	18.421144485474	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00022431image004.png
+496	16.028064727783	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00022431image006.png
+496	13.279674530029	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00022431image018.png
+496	13.262845039368	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00023746image004.png
+496	19.882389068604	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00023746image006.png
+496	15.262320518494	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00023746image018.png
+496	17.642248153687	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00036447image004.png
+496	15.463196754456	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00036447image006.png
+496	11.353343963623	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00036447image018.png
+496	15.960011482239	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00038333image004.png
+496	20.397563934326	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00038333image006.png
+496	18.76513671875	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00038333image018.png
+496	19.66873550415	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00047749image004.png
+496	16.182729721069	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00047749image006.png
+496	14.910256385803	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/496/ILSVRC2012_val_00047749image018.png
+496	13.729937553406	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00002249image008.png
+535	19.928514480591	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00002249image034.png
+535	18.741695404053	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00002249image098.png
+535	18.036539077759	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00012585image008.png
+535	9.2179164886475	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00012585image034.png
+535	10.161316871643	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00012585image098.png
+535	6.328884601593	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00021421image008.png
+535	16.052415847778	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00021421image034.png
+535	13.159980773926	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00021421image098.png
+535	7.5993189811707	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00025995image008.png
+535	17.618627548218	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00025995image034.png
+535	18.16881942749	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00025995image098.png
+535	18.715393066406	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00026570image008.png
+535	14.425953865051	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00026570image034.png
+535	11.693425178528	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00026570image098.png
+535	8.1935939788818	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00029869image008.png
+535	13.095613479614	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00029869image034.png
+535	8.8880939483643	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00029869image098.png
+535	5.8093934059143	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00035882image008.png
+535	14.634847640991	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00035882image034.png
+535	11.498244285583	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00035882image098.png
+535	5.9899568557739	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00039033image008.png
+535	18.312950134277	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00039033image034.png
+535	15.143061637878	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00039033image098.png
+535	11.908427238464	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00043740image008.png
+535	19.340705871582	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00043740image034.png
+535	17.50203704834	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00043740image098.png
+535	16.72967338562	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00048397image008.png
+535	12.180679321289	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00048397image034.png
+535	11.473227500916	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/535/ILSVRC2012_val_00048397image098.png
+535	7.6839652061462	dishwasher, dish washer, dishwashing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00000662image022.png
+580	19.669584274292	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00000662image063.png
+580	21.797275543213	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00000662image065.png
+580	20.096670150757	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00002690image022.png
+580	21.154640197754	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00002690image063.png
+580	23.31541633606	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00002690image065.png
+580	18.544490814209	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00006036image022.png
+580	20.118001937866	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00006036image063.png
+580	23.556797027588	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00006036image065.png
+580	19.564643859863	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007450image022.png
+580	25.505199432373	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007450image063.png
+580	26.725090026855	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007450image065.png
+580	25.029052734375	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007940image022.png
+580	19.765069961548	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007940image063.png
+580	21.951101303101	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00007940image065.png
+580	16.855596542358	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00016899image022.png
+580	25.477724075317	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00016899image063.png
+580	25.633707046509	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00016899image065.png
+580	24.26512336731	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00018954image022.png
+580	17.396604537964	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00018954image063.png
+580	16.12197303772	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00018954image065.png
+580	15.47270488739	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00028864image022.png
+580	13.578639030457	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00028864image063.png
+580	16.978670120239	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00028864image065.png
+580	13.311455726624	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00029617image022.png
+580	22.658260345459	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00029617image063.png
+580	20.926797866821	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00029617image065.png
+580	13.359790802002	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00047672image022.png
+580	12.310424804688	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00047672image063.png
+580	19.606330871582	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/580/ILSVRC2012_val_00047672image065.png
+580	14.282731056213	grand piano, grand
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00001713image019.png
+621	11.725626945496	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00001713image050.png
+621	11.376091957092	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00001713image062.png
+621	12.012142181396	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00002580image019.png
+621	15.052287101746	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00002580image050.png
+621	7.6111192703247	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00002580image062.png
+621	9.1091709136963	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00005940image019.png
+621	13.502098083496	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00005940image050.png
+621	10.033036231995	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00005940image062.png
+621	11.937022209167	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00015965image019.png
+621	15.001061439514	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00015965image050.png
+621	9.3087549209595	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00015965image062.png
+621	14.490698814392	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021413image019.png
+621	13.228487968445	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021413image050.png
+621	12.450965881348	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021413image062.png
+621	13.867471694946	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021447image019.png
+621	11.567932128906	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021447image050.png
+621	10.917146682739	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00021447image062.png
+621	11.042004585266	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022093image019.png
+621	9.0850172042847	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022093image050.png
+621	8.873610496521	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022093image062.png
+621	9.8407497406006	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022256image019.png
+621	13.130947113037	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022256image050.png
+621	7.7212247848511	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00022256image062.png
+621	11.447943687439	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00047429image019.png
+621	11.728816986084	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00047429image050.png
+621	12.147426605225	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00047429image062.png
+621	11.432564735413	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00048251image019.png
+621	13.937382698059	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00048251image050.png
+621	11.466627120972	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/621/ILSVRC2012_val_00048251image062.png
+621	11.929396629333	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00001438image007.png
+628	14.660509109497	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00001438image008.png
+628	18.097444534302	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00001438image013.png
+628	17.18577003479	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00003924image007.png
+628	12.752591133118	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00003924image008.png
+628	11.252149581909	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00003924image013.png
+628	11.464898109436	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00004831image007.png
+628	13.396998405457	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00004831image008.png
+628	13.588939666748	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00004831image013.png
+628	13.491379737854	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00005809image007.png
+628	15.7317943573	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00005809image008.png
+628	16.117797851562	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00005809image013.png
+628	12.476572990417	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00011618image007.png
+628	16.78569984436	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00011618image008.png
+628	17.483045578003	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00011618image013.png
+628	16.134265899658	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00016945image007.png
+628	14.736575126648	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00016945image008.png
+628	17.699394226074	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00016945image013.png
+628	15.739974021912	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00026977image007.png
+628	17.508647918701	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00026977image008.png
+628	19.712253570557	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00026977image013.png
+628	17.606523513794	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00035788image007.png
+628	12.93293094635	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00035788image008.png
+628	14.182001113892	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00035788image013.png
+628	12.26589012146	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00041512image007.png
+628	10.161515235901	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00041512image008.png
+628	11.489489555359	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00041512image013.png
+628	9.2874317169189	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00044056image007.png
+628	7.4042658805847	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00044056image008.png
+628	5.9563522338867	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/628/ILSVRC2012_val_00044056image013.png
+628	7.7976770401001	limousine, limo
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000109image018.png
+633	19.183624267578	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000109image033.png
+633	18.888242721558	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000109image069.png
+633	15.967788696289	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000640image018.png
+633	17.08510017395	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000640image033.png
+633	15.785080909729	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000640image069.png
+633	16.377506256104	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000783image018.png
+633	10.622165679932	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000783image033.png
+633	8.6839637756348	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00000783image069.png
+633	8.0051364898682	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00005562image018.png
+633	18.731210708618	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00005562image033.png
+633	17.705400466919	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00005562image069.png
+633	18.567916870117	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00012602image018.png
+633	18.761287689209	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00012602image033.png
+633	17.175754547119	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00012602image069.png
+633	15.425887107849	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00016702image018.png
+633	19.483226776123	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00016702image033.png
+633	19.902723312378	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00016702image069.png
+633	19.167261123657	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00017612image018.png
+633	14.067098617554	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00017612image033.png
+633	12.868693351746	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00017612image069.png
+633	12.764706611633	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00024720image018.png
+633	19.101202011108	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00024720image033.png
+633	18.013710021973	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00024720image069.png
+633	17.015773773193	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025111image018.png
+633	9.6903944015503	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025111image033.png
+633	11.039843559265	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025111image069.png
+633	7.5524315834045	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025560image018.png
+633	7.8665690422058	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025560image033.png
+633	7.4907402992249	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/633/ILSVRC2012_val_00025560image069.png
+633	4.9528393745422	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00000364image014.png
+638	8.086256980896	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00000364image018.png
+638	4.5426692962646	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00000364image020.png
+638	9.3904008865356	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00002203image014.png
+638	10.402799606323	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00002203image018.png
+638	5.4101996421814	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00002203image020.png
+638	7.601375579834	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00003949image014.png
+638	14.176186561584	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00003949image018.png
+638	16.472156524658	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00003949image020.png
+638	17.137016296387	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00007759image014.png
+638	19.505500793457	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00007759image018.png
+638	18.546710968018	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00007759image020.png
+638	19.263072967529	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012031image014.png
+638	16.866260528564	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012031image018.png
+638	14.398314476013	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012031image020.png
+638	14.33607673645	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012802image014.png
+638	15.524353027344	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012802image018.png
+638	14.460525512695	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00012802image020.png
+638	20.200752258301	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00013096image014.png
+638	10.616189956665	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00013096image018.png
+638	9.9368486404419	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00013096image020.png
+638	8.0092401504517	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024544image014.png
+638	8.3277502059937	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024544image018.png
+638	10.891188621521	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024544image020.png
+638	10.515259742737	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024783image014.png
+638	6.0738892555237	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024783image018.png
+638	4.1142239570618	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00024783image020.png
+638	6.2263383865356	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00036617image014.png
+638	15.723986625671	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00036617image018.png
+638	16.053815841675	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/638/ILSVRC2012_val_00036617image020.png
+638	17.450422286987	mailbox, letter box
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00002964image002.png
+651	4.2373027801514	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00002964image007.png
+651	1.8977352380753	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00002964image048.png
+651	3.191123008728	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003465image002.png
+651	10.205282211304	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003465image007.png
+651	12.158159255981	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003465image048.png
+651	12.069167137146	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003611image002.png
+651	25.043090820312	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003611image007.png
+651	18.6790599823	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00003611image048.png
+651	21.632726669312	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00012172image002.png
+651	2.7613155841827	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00012172image007.png
+651	2.8748366832733	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00012172image048.png
+651	1.7817900180817	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00021431image002.png
+651	14.308532714844	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00021431image007.png
+651	9.0401420593262	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00021431image048.png
+651	10.05094909668	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00023721image002.png
+651	18.911811828613	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00023721image007.png
+651	18.081974029541	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00023721image048.png
+651	20.390621185303	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00031013image002.png
+651	8.2141103744507	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00031013image007.png
+651	5.8197989463806	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00031013image048.png
+651	7.3984136581421	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00033438image002.png
+651	8.3201017379761	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00033438image007.png
+651	8.6310234069824	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00033438image048.png
+651	8.2299661636353	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00048612image002.png
+651	7.6958785057068	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00048612image007.png
+651	5.1767597198486	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00048612image048.png
+651	5.0111374855042	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00049557image002.png
+651	6.4310789108276	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00049557image007.png
+651	6.6581301689148	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/651/ILSVRC2012_val_00049557image048.png
+651	8.0225791931152	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00004485image038.png
+652	14.510075569153	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00004485image046.png
+652	14.20597743988	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00004485image076.png
+652	15.618360519409	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00007943image038.png
+652	16.592624664307	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00007943image046.png
+652	16.551380157471	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00007943image076.png
+652	17.774568557739	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00009531image038.png
+652	14.622673034668	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00009531image046.png
+652	15.095500946045	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00009531image076.png
+652	14.839657783508	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00022020image038.png
+652	19.434827804565	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00022020image046.png
+652	16.165075302124	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00022020image076.png
+652	17.193105697632	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00027917image038.png
+652	12.807102203369	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00027917image046.png
+652	16.28275680542	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00027917image076.png
+652	11.47612953186	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00028554image038.png
+652	7.8083539009094	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00028554image046.png
+652	15.251349449158	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00028554image076.png
+652	10.882473945618	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00034707image038.png
+652	13.622080802917	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00034707image046.png
+652	16.912437438965	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00034707image076.png
+652	16.660161972046	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00037721image038.png
+652	14.025886535645	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00037721image046.png
+652	14.385528564453	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00037721image076.png
+652	14.643864631653	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039433image038.png
+652	19.808380126953	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039433image046.png
+652	15.655760765076	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039433image076.png
+652	17.602375030518	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039480image038.png
+652	8.6721782684326	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039480image046.png
+652	15.061772346497	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/652/ILSVRC2012_val_00039480image076.png
+652	12.15878200531	microwave, microwave oven
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00002930image004.png
+704	12.893385887146	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00002930image012.png
+704	9.5849161148071	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00002930image013.png
+704	15.56597328186	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00006809image004.png
+704	7.5579147338867	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00006809image012.png
+704	3.0782001018524	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00006809image013.png
+704	11.574495315552	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00010731image004.png
+704	17.280805587769	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00010731image012.png
+704	14.530477523804	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00010731image013.png
+704	15.786170959473	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00012464image004.png
+704	22.853559494019	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00012464image012.png
+704	18.0472240448	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00012464image013.png
+704	23.393396377563	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00019835image004.png
+704	5.8406014442444	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00019835image012.png
+704	5.8337383270264	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00019835image013.png
+704	5.8615860939026	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00024602image004.png
+704	10.904057502747	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00024602image012.png
+704	8.6192607879639	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00024602image013.png
+704	13.989074707031	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00026124image004.png
+704	16.895761489868	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00026124image012.png
+704	14.226092338562	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00026124image013.png
+704	18.874656677246	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00034159image004.png
+704	21.300647735596	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00034159image012.png
+704	19.031660079956	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00034159image013.png
+704	19.856338500977	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00038706image004.png
+704	10.973874092102	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00038706image012.png
+704	6.2994146347046	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00038706image013.png
+704	17.913049697876	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00048038image004.png
+704	14.103367805481	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00048038image012.png
+704	12.289795875549	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/704/ILSVRC2012_val_00048038image013.png
+704	18.040557861328	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00000966image003.png
+725	12.028261184692	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00000966image009.png
+725	8.9580659866333	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00000966image015.png
+725	12.965740203857	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00002130image003.png
+725	9.9103240966797	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00002130image009.png
+725	7.8457732200623	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00002130image015.png
+725	15.719529151917	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00011189image003.png
+725	10.173776626587	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00011189image009.png
+725	9.161919593811	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00011189image015.png
+725	16.213109970093	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00012691image003.png
+725	14.811331748962	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00012691image009.png
+725	14.420094490051	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00012691image015.png
+725	16.2399559021	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00017696image003.png
+725	8.1162490844727	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00017696image009.png
+725	9.3695058822632	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00017696image015.png
+725	15.859370231628	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00022353image003.png
+725	12.390975952148	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00022353image009.png
+725	12.027460098267	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00022353image015.png
+725	16.189949035645	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00030410image003.png
+725	13.851031303406	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00030410image009.png
+725	17.022136688232	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00030410image015.png
+725	20.461483001709	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00032776image003.png
+725	10.048166275024	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00032776image009.png
+725	11.387450218201	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00032776image015.png
+725	16.836008071899	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00040013image003.png
+725	9.6015672683716	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00040013image009.png
+725	9.4179668426514	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00040013image015.png
+725	9.2717170715332	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00044338image003.png
+725	6.9607343673706	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00044338image009.png
+725	6.6531977653503	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/725/ILSVRC2012_val_00044338image015.png
+725	9.7771120071411	pirate, pirate ship
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00003258image021.png
+743	16.652654647827	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00003258image025.png
+743	15.450818061829	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00003258image048.png
+743	14.933708190918	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00005278image021.png
+743	17.003561019897	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00005278image025.png
+743	14.224606513977	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00005278image048.png
+743	15.713264465332	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00009689image021.png
+743	19.744348526001	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00009689image025.png
+743	15.3351354599	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00009689image048.png
+743	14.940273284912	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00014579image021.png
+743	19.665256500244	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00014579image025.png
+743	19.414987564087	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00014579image048.png
+743	19.116134643555	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00016838image021.png
+743	11.281868934631	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00016838image025.png
+743	11.41993522644	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00016838image048.png
+743	8.7897348403931	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00020731image021.png
+743	20.156433105469	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00020731image025.png
+743	15.445914268494	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00020731image048.png
+743	17.762630462646	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00021544image021.png
+743	18.945402145386	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00021544image025.png
+743	16.093145370483	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00021544image048.png
+743	17.796865463257	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00033653image021.png
+743	21.300508499146	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00033653image025.png
+743	15.890956878662	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00033653image048.png
+743	17.533794403076	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00037620image021.png
+743	19.461292266846	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00037620image025.png
+743	19.927165985107	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00037620image048.png
+743	16.360935211182	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00048309image021.png
+743	13.267890930176	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00048309image025.png
+743	11.156900405884	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/743/ILSVRC2012_val_00048309image048.png
+743	12.930945396423	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00002910image034.png
+762	8.9401512145996	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00002910image046.png
+762	10.997579574585	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00002910image082.png
+762	5.6921215057373	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00006113image034.png
+762	4.4995179176331	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00006113image046.png
+762	9.0601224899292	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00006113image082.png
+762	4.210410118103	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00022985image034.png
+762	16.701322555542	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00022985image046.png
+762	16.460794448853	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00022985image082.png
+762	15.811091423035	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00024947image034.png
+762	9.4175071716309	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00024947image046.png
+762	11.19812297821	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00024947image082.png
+762	7.3841800689697	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00028651image034.png
+762	12.152252197266	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00028651image046.png
+762	15.462232589722	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00028651image082.png
+762	11.872316360474	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00031904image034.png
+762	6.9343347549438	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00031904image046.png
+762	13.962099075317	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00031904image082.png
+762	6.715380191803	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00045938image034.png
+762	9.0107393264771	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00045938image046.png
+762	14.326056480408	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00045938image082.png
+762	7.669029712677	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047274image034.png
+762	11.088164329529	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047274image046.png
+762	16.394937515259	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047274image082.png
+762	10.581197738647	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047386image034.png
+762	10.88559627533	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047386image046.png
+762	17.951023101807	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00047386image082.png
+762	11.157690048218	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00048845image034.png
+762	10.903151512146	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00048845image046.png
+762	16.426107406616	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/762/ILSVRC2012_val_00048845image082.png
+762	11.801038742065	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00006061image042.png
+766	8.5787916183472	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00006061image043.png
+766	9.6880283355713	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00006061image067.png
+766	4.7761011123657	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00014269image042.png
+766	13.014826774597	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00014269image043.png
+766	17.48309135437	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00014269image067.png
+766	17.333110809326	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00015390image042.png
+766	10.224100112915	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00015390image043.png
+766	12.236414909363	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00015390image067.png
+766	10.926645278931	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00017214image042.png
+766	15.663920402527	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00017214image043.png
+766	17.093914031982	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00017214image067.png
+766	13.135425567627	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018123image042.png
+766	16.121908187866	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018123image043.png
+766	15.994255065918	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018123image067.png
+766	11.007991790771	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018206image042.png
+766	15.434032440186	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018206image043.png
+766	14.031673431396	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00018206image067.png
+766	7.0418839454651	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024320image042.png
+766	13.465584754944	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024320image043.png
+766	13.269137382507	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024320image067.png
+766	13.261867523193	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024620image042.png
+766	10.861121177673	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024620image043.png
+766	13.151303291321	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00024620image067.png
+766	11.073010444641	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00033406image042.png
+766	20.896350860596	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00033406image043.png
+766	18.419771194458	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00033406image067.png
+766	13.999190330505	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00037370image042.png
+766	17.629495620728	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00037370image043.png
+766	13.237156867981	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/766/ILSVRC2012_val_00037370image067.png
+766	19.517105102539	rocking chair, rocker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00001771image001.png
+780	22.890754699707	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00001771image047.png
+780	21.950815200806	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00001771image057.png
+780	24.490079879761	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00003709image001.png
+780	18.825815200806	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00003709image047.png
+780	14.933385848999	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00003709image057.png
+780	20.542331695557	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00005166image001.png
+780	17.151700973511	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00005166image047.png
+780	13.940431594849	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00005166image057.png
+780	18.501998901367	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00007635image001.png
+780	19.511367797852	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00007635image047.png
+780	17.962825775146	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00007635image057.png
+780	18.240348815918	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00011870image001.png
+780	21.651153564453	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00011870image047.png
+780	18.256656646729	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00011870image057.png
+780	21.582307815552	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00019046image001.png
+780	19.138328552246	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00019046image047.png
+780	18.426559448242	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00019046image057.png
+780	19.532161712646	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00024242image001.png
+780	14.543766021729	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00024242image047.png
+780	12.687082290649	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00024242image057.png
+780	14.686696052551	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00028711image001.png
+780	17.113662719727	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00028711image047.png
+780	16.496299743652	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00028711image057.png
+780	19.33111000061	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038209image001.png
+780	19.975690841675	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038209image047.png
+780	17.725706100464	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038209image057.png
+780	21.549123764038	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038506image001.png
+780	19.302045822144	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038506image047.png
+780	17.125942230225	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/780/ILSVRC2012_val_00038506image057.png
+780	19.44310760498	school bus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00002676image010.png
+783	18.531406402588	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00002676image017.png
+783	14.872683525085	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00002676image034.png
+783	15.720955848694	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00003507image010.png
+783	6.1953630447388	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00003507image017.png
+783	7.6592111587524	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00003507image034.png
+783	8.635630607605	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00006324image010.png
+783	20.215549468994	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00006324image017.png
+783	23.231100082397	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00006324image034.png
+783	22.639587402344	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00015386image010.png
+783	10.288465499878	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00015386image017.png
+783	12.422348976135	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00015386image034.png
+783	12.194428443909	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00024674image010.png
+783	10.219971656799	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00024674image017.png
+783	9.5601110458374	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00024674image034.png
+783	14.854410171509	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00031893image010.png
+783	11.568608283997	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00031893image017.png
+783	10.831583023071	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00031893image034.png
+783	6.6376094818115	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00036252image010.png
+783	6.7283353805542	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00036252image017.png
+783	9.3611879348755	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00036252image034.png
+783	6.6740145683289	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00039436image010.png
+783	17.33154296875	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00039436image017.png
+783	16.44319152832	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00039436image034.png
+783	19.032222747803	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00042871image010.png
+783	9.4198007583618	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00042871image017.png
+783	11.511710166931	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00042871image034.png
+783	11.548800468445	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00046058image010.png
+783	10.230031013489	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00046058image017.png
+783	9.1325540542603	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/783/ILSVRC2012_val_00046058image034.png
+783	10.568614006042	screen, CRT screen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00001204image016.png
+815	13.240948677063	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00001204image018.png
+815	17.358001708984	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00001204image022.png
+815	15.489763259888	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00002696image016.png
+815	15.189014434814	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00002696image018.png
+815	16.114713668823	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00002696image022.png
+815	15.84721660614	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00008080image016.png
+815	10.763396263123	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00008080image018.png
+815	8.2658128738403	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00008080image022.png
+815	9.1748170852661	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00009927image016.png
+815	12.95080280304	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00009927image018.png
+815	15.604965209961	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00009927image022.png
+815	15.279863357544	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00010190image016.png
+815	16.651205062866	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00010190image018.png
+815	17.746524810791	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00010190image022.png
+815	14.539719581604	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00018893image016.png
+815	15.882325172424	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00018893image018.png
+815	16.621381759644	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00018893image022.png
+815	11.926685333252	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00020732image016.png
+815	14.778609275818	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00020732image018.png
+815	13.474056243896	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00020732image022.png
+815	11.382007598877	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00021647image016.png
+815	21.433465957642	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00021647image018.png
+815	21.394916534424	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00021647image022.png
+815	20.60466003418	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00039041image016.png
+815	13.406189918518	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00039041image018.png
+815	12.168973922729	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00039041image022.png
+815	11.943709373474	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00043492image016.png
+815	16.261373519897	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00043492image018.png
+815	17.851366043091	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/815/ILSVRC2012_val_00043492image022.png
+815	17.22639465332	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00003896image030.png
+818	14.019703865051	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00003896image032.png
+818	14.684586524963	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00003896image046.png
+818	15.973441123962	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00004979image030.png
+818	15.057522773743	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00004979image032.png
+818	16.731540679932	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00004979image046.png
+818	14.847253799438	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00006285image030.png
+818	17.264808654785	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00006285image032.png
+818	18.700115203857	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00006285image046.png
+818	17.649963378906	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00008392image030.png
+818	15.370462417603	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00008392image032.png
+818	16.81153678894	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00008392image046.png
+818	15.102588653564	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00010455image030.png
+818	11.62859249115	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00010455image032.png
+818	13.145114898682	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00010455image046.png
+818	12.072085380554	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025465image030.png
+818	16.499359130859	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025465image032.png
+818	14.043297767639	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025465image046.png
+818	15.153010368347	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025587image030.png
+818	10.622340202332	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025587image032.png
+818	13.611897468567	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00025587image046.png
+818	12.17734336853	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00027397image030.png
+818	9.410964012146	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00027397image032.png
+818	9.6748743057251	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00027397image046.png
+818	10.16877746582	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00047893image030.png
+818	14.143543243408	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00047893image032.png
+818	15.429102897644	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00047893image046.png
+818	14.168536186218	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00049675image030.png
+818	13.798434257507	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00049675image032.png
+818	14.015729904175	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/818/ILSVRC2012_val_00049675image046.png
+818	12.460340499878	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00003252image002.png
+847	16.48357963562	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00003252image003.png
+847	17.062505722046	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00003252image093.png
+847	15.10694694519	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00006229image002.png
+847	14.90682888031	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00006229image003.png
+847	15.925591468811	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00006229image093.png
+847	12.157108306885	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00008897image002.png
+847	16.466457366943	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00008897image003.png
+847	15.675518989563	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00008897image093.png
+847	14.753306388855	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00017818image002.png
+847	14.589138031006	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00017818image003.png
+847	15.71888923645	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00017818image093.png
+847	9.3781862258911	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00024312image002.png
+847	12.310377120972	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00024312image003.png
+847	14.371463775635	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00024312image093.png
+847	9.8098335266113	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00025719image002.png
+847	17.420713424683	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00025719image003.png
+847	17.445613861084	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00025719image093.png
+847	15.163049697876	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00030598image002.png
+847	14.244442939758	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00030598image003.png
+847	16.812355041504	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00030598image093.png
+847	10.783569335938	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00034241image002.png
+847	13.726056098938	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00034241image003.png
+847	15.073676109314	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00034241image093.png
+847	11.846819877625	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00040162image002.png
+847	19.956670761108	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00040162image003.png
+847	20.607915878296	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00040162image093.png
+847	17.44388961792	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00041421image002.png
+847	17.964080810547	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00041421image003.png
+847	17.125514984131	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/847/ILSVRC2012_val_00041421image093.png
+847	16.121864318848	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00004662image014.png
+893	14.472912788391	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00004662image036.png
+893	13.486952781677	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00004662image065.png
+893	14.589030265808	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00007256image014.png
+893	12.604195594788	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00007256image036.png
+893	13.23078918457	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00007256image065.png
+893	12.624665260315	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00008740image014.png
+893	8.2874059677124	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00008740image036.png
+893	7.0224885940552	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00008740image065.png
+893	9.4014101028442	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00014169image014.png
+893	17.488136291504	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00014169image036.png
+893	16.806037902832	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00014169image065.png
+893	17.177333831787	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018143image014.png
+893	13.085021972656	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018143image036.png
+893	10.287294387817	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018143image065.png
+893	11.26979637146	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018976image014.png
+893	9.3614253997803	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018976image036.png
+893	7.7680406570435	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00018976image065.png
+893	7.4764709472656	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00030330image014.png
+893	15.409964561462	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00030330image036.png
+893	12.339957237244	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00030330image065.png
+893	15.033843994141	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041461image014.png
+893	13.253523826599	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041461image036.png
+893	13.710320472717	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041461image065.png
+893	12.98867225647	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041715image014.png
+893	11.226796150208	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041715image036.png
+893	12.648632049561	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00041715image065.png
+893	11.854201316833	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00046034image014.png
+893	14.812285423279	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00046034image036.png
+893	13.964533805847	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim/t_background/893/ILSVRC2012_val_00046034image065.png
+893	13.722146034241	wall clock

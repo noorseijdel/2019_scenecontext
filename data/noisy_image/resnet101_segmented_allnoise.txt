@@ -1,0 +1,1620 @@
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00002062.png
+403	0.98989361524582	acoustic guitar
+421	0.0051016523502767	banjo
+547	0.002861401764676	electric guitar
+715	0.00057253334671259	pick, plectrum, plectron
+487	0.00043998644105159	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00004501.png
+702	0.24988813698292	parachute, chute
+23	0.17141750454903	bald eagle, American eagle, Haliaeetus leucocephalus
+22	0.11532752215862	kite
+66	0.091707780957222	sea snake
+112	0.047492913901806	nematode, nematode worm, roundworm
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00013470.png
+403	0.97509515285492	acoustic guitar
+421	0.0098286652937531	banjo
+547	0.0077978447079659	electric guitar
+715	0.0014078603126109	pick, plectrum, plectron
+487	0.0012617650208995	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00013668.png
+403	0.98996758460999	acoustic guitar
+547	0.0049994210712612	electric guitar
+715	0.0031534708105028	pick, plectrum, plectron
+421	0.00068449130048975	banjo
+516	0.0002056052617263	cowboy hat, ten-gallon hat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00019450.png
+817	0.093406066298485	spindle
+784	0.061207789927721	screw
+732	0.06066070124507	plunger, plumber's helper
+403	0.057600248605013	acoustic guitar
+614	0.054801411926746	joystick
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00019484.png
+403	0.89282739162445	acoustic guitar
+547	0.065966166555882	electric guitar
+715	0.02033799700439	pick, plectrum, plectron
+421	0.014606418088078	banjo
+516	0.0014284133212641	cowboy hat, ten-gallon hat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00021282.png
+403	0.99983334541321	acoustic guitar
+547	0.00011788894335041	electric guitar
+421	1.7212098100572e-05	banjo
+715	1.0390172064945e-05	pick, plectrum, plectron
+487	7.9534247561242e-06	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00025639.png
+403	0.94965010881424	acoustic guitar
+421	0.027160111814737	banjo
+547	0.018549675121903	electric guitar
+890	0.00088295084424317	violin, fiddle
+487	0.00080353650264442	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00030420.png
+547	0.855339884758	electric guitar
+403	0.014515373855829	acoustic guitar
+715	0.0097271390259266	pick, plectrum, plectron
+770	0.0079294759780169	rule, ruler
+72	0.0063653509132564	scorpion
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/403/ILSVRC2012_val_00036762.png
+547	0.74419665336609	electric guitar
+403	0.23915514349937	acoustic guitar
+421	0.011467091739178	banjo
+715	0.0030911508947611	pick, plectrum, plectron
+651	0.00071558891795576	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00001952.png
+405	0.49326327443123	airliner
+909	0.30650702118874	wing
+896	0.1928123831749	warplane, military plane
+135	0.0010787394130602	crane
+100	0.0010153747862205	goose
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00010597.png
+896	0.43520721793175	warplane, military plane
+405	0.42658078670502	airliner
+909	0.126070484519	wing
+5	0.0030692950822413	hammerhead, hammerhead shark
+745	0.0023792705032974	projectile, missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00018685.png
+405	0.84203660488129	airliner
+909	0.14455986022949	wing
+896	0.01221224758774	warplane, military plane
+406	0.00032107240986079	airship, dirigible
+813	0.00015418040857185	space shuttle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00022975.png
+896	0.73603886365891	warplane, military plane
+405	0.17245952785015	airliner
+909	0.065419368445873	wing
+404	0.012996572069824	aircraft carrier, carrier, flattop, attack aircraft carrier
+813	0.0083751725032926	space shuttle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00023316.png
+405	0.39179769158363	airliner
+909	0.30086275935173	wing
+896	0.26882392168045	warplane, military plane
+813	0.022232124581933	space shuttle
+5	0.0064153322018683	hammerhead, hammerhead shark
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00026859.png
+405	0.47940677404404	airliner
+909	0.4476363658905	wing
+896	0.061396546661854	warplane, military plane
+406	0.0018174297874793	airship, dirigible
+813	0.0010064952075481	space shuttle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00033920.png
+405	0.97855740785599	airliner
+909	0.016892256215215	wing
+896	0.0015751643804833	warplane, military plane
+813	0.0012224625097588	space shuttle
+406	0.0011019095545635	airship, dirigible
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00034342.png
+405	0.69979757070541	airliner
+909	0.17000961303711	wing
+896	0.12623202800751	warplane, military plane
+813	0.0026690184604377	space shuttle
+404	0.00060946308076382	aircraft carrier, carrier, flattop, attack aircraft carrier
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00036394.png
+405	0.50999420881271	airliner
+909	0.32325205206871	wing
+896	0.16591766476631	warplane, military plane
+813	0.00046987141831778	space shuttle
+404	0.00011522603745107	aircraft carrier, carrier, flattop, attack aircraft carrier
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/405/ILSVRC2012_val_00048111.png
+405	0.89752733707428	airliner
+909	0.078893460333347	wing
+896	0.020632864907384	warplane, military plane
+406	0.00076741288648918	airship, dirigible
+745	0.00042779362411238	projectile, missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00005080.png
+479	0.15864813327789	carton
+746	0.1095289811492	projector
+743	0.082023546099663	printer
+772	0.072555966675282	safe
+527	0.06914147734642	desk
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00012591.png
+436	0.35364964604378	bathtub, bathing tub, bath, tub
+877	0.12750463187695	tub, vat
+678	0.082886047661304	nail
+694	0.062126755714417	paddle, boat paddle
+897	0.048834539949894	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00015979.png
+877	0.47258043289185	tub, vat
+436	0.43229615688324	bathtub, bathing tub, bath, tub
+897	0.017535097897053	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+429	0.010492136701941	barrow, garden cart, lawn cart, wheelbarrow
+464	0.0095645030960441	bucket, pail
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00015996.png
+436	0.79652386903763	bathtub, bathing tub, bath, tub
+877	0.19224950671196	tub, vat
+432	0.0048983148299158	bassinet
+841	0.0023998550605029	swab, swob, mop
+897	0.0011998870177194	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00016365.png
+429	0.37597692012787	barrow, garden cart, lawn cart, wheelbarrow
+877	0.21934032440186	tub, vat
+436	0.14263996481895	bathtub, bathing tub, bath, tub
+910	0.13594740629196	wok
+470	0.059512816369534	caldron, cauldron
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00017804.png
+7	0.43077865242958	stingray
+86	0.24530822038651	quail
+6	0.10360391438007	electric ray, crampfish, numbfish, torpedo
+88	0.048000056296587	African grey, African gray, Psittacus erithacus
+138	0.020948035642505	American coot, marsh hen, mud hen, water hen, Fulica americana
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00038234.png
+897	0.95111465454102	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+568	0.0080420458689332	frying pan, frypan, skillet
+910	0.0065012848936021	wok
+810	0.0060538449324667	soup bowl
+436	0.0047085788100958	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00042102.png
+503	0.63164883852005	clog, geta, patten, sabot
+601	0.074712835252285	hook, claw
+897	0.032506294548512	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+470	0.030609641224146	caldron, cauldron
+607	0.028706902638078	iron, smoothing iron
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00048621.png
+449	0.50208127498627	birdhouse
+413	0.058674309402704	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+668	0.042303960770369	mortarboard
+638	0.033185232430696	mailbox, letter box
+426	0.025086734443903	barn
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/436/ILSVRC2012_val_00049673.png
+429	0.48689144849777	barrow, garden cart, lawn cart, wheelbarrow
+897	0.11414811760187	washbasin, handbasin, washbowl, lavabo, wash-hand basin
+877	0.088067211210728	tub, vat
+869	0.069501258432865	tray
+436	0.067392870783806	bathtub, bathing tub, bath, tub
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00001630.png
+449	0.9632773399353	birdhouse
+450	0.016838220879436	boathouse
+443	0.0064237960614264	bell cote, bell cot
+498	0.0038018305785954	church, church building
+438	0.0013327713822946	beacon, lighthouse, beacon light, pharos
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00003952.png
+449	0.99946826696396	birdhouse
+13	0.00010665808076737	house finch, linnet, Carpodacus mexicanus
+20	4.5118693378754e-05	chickadee
+443	4.2558283894323e-05	bell cote, bell cot
+15	4.0402428567177e-05	indigo bunting, indigo finch, indigo bird, Passerina cyanea
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00012648.png
+449	0.99999868869781	birdhouse
+443	6.1182743138488e-07	bell cote, bell cot
+638	4.2888444795608e-07	mailbox, letter box
+498	1.1572169711371e-07	church, church building
+495	4.2114191245446e-08	chime, bell, gong
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00015956.png
+449	0.71512979269028	birdhouse
+539	0.068191416561604	dome
+438	0.043247491121292	beacon, lighthouse, beacon light, pharos
+664	0.039794180542231	monastery
+833	0.03133212774992	stupa, tope
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00025965.png
+449	0.9987051486969	birdhouse
+13	0.00051093747606501	house finch, linnet, Carpodacus mexicanus
+15	0.00016493459406774	indigo bunting, indigo finch, indigo bird, Passerina cyanea
+20	0.00012830991181545	chickadee
+584	0.00012391389464028	guillotine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00027688.png
+449	0.98292750120163	birdhouse
+506	0.015613971278071	coffeepot
+438	0.00032751061371528	beacon, lighthouse, beacon light, pharos
+726	0.00014371222641785	pitcher, ewer
+551	0.00014187736087479	espresso maker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00028359.png
+449	0.99949896335602	birdhouse
+443	0.00041323032928631	bell cote, bell cot
+498	2.4677381588845e-05	church, church building
+495	9.4134102255339e-06	chime, bell, gong
+15	7.1618023866904e-06	indigo bunting, indigo finch, indigo bird, Passerina cyanea
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00032543.png
+449	0.99999737739563	birdhouse
+13	6.4066864524648e-07	house finch, linnet, Carpodacus mexicanus
+15	5.1702198788917e-07	indigo bunting, indigo finch, indigo bird, Passerina cyanea
+20	1.5394316221773e-07	chickadee
+668	1.3668530129962e-07	mortarboard
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00034726.png
+449	0.71812111139297	birdhouse
+587	0.068365857005119	half track
+409	0.052103634923697	amphibian, amphibious vehicle
+518	0.031393349170685	crane
+570	0.029268408194184	garbage truck, dustcart
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/449/ILSVRC2012_val_00036900.png
+449	0.99998950958252	birdhouse
+638	2.1538983219216e-06	mailbox, letter box
+668	1.1328477285133e-06	mortarboard
+413	8.2598279504964e-07	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+711	5.1418857083263e-07	pencil sharpener
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00006258.png
+711	0.28369784355164	pencil sharpener
+903	0.24560479819775	whistle
+627	0.19811743497849	lighter, light, igniter, ignitor
+420	0.047379519790411	Band Aid
+675	0.01412312220782	mousetrap
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00021301.png
+469	0.4162865281105	cab, hack, taxi, taxicab
+437	0.21353194117546	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+657	0.047789014875889	minivan
+610	0.038623165339231	jeep, landrover
+655	0.034163512289524	minibus
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00023507.png
+469	0.073660545051098	cab, hack, taxi, taxicab
+26	0.065763279795647	European fire salamander, Salamandra salamandra
+121	0.052072320133448	fiddler crab
+409	0.049152992665768	amphibian, amphibious vehicle
+752	0.04570584744215	racer, race car, racing car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00025244.png
+582	0.79672157764435	grille, radiator grille
+512	0.079565972089767	convertible
+437	0.050562474876642	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+469	0.026403617113829	cab, hack, taxi, taxicab
+818	0.019935075193644	sports car, sport car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00034269.png
+469	0.92498809099197	cab, hack, taxi, taxicab
+480	0.014228072017431	car wheel
+752	0.011667280457914	racer, race car, racing car
+437	0.0053999423980713	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+865	0.0039141518063843	tow truck, tow car, wrecker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00034836.png
+469	0.8147097826004	cab, hack, taxi, taxicab
+752	0.12377364188433	racer, race car, racing car
+818	0.015028339810669	sports car, sport car
+865	0.014392890967429	tow truck, tow car, wrecker
+804	0.0076803378760815	snowplow, snowplough
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00036204.png
+469	0.16638551652431	cab, hack, taxi, taxicab
+409	0.12556959688663	amphibian, amphibious vehicle
+883	0.09293744713068	vacuum, vacuum cleaner
+764	0.051362685859203	revolver, six-gun, six-shooter
+752	0.036849360913038	racer, race car, racing car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00042104.png
+469	0.91822427511215	cab, hack, taxi, taxicab
+752	0.013527098111808	racer, race car, racing car
+865	0.01025237608701	tow truck, tow car, wrecker
+437	0.0098194144666195	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+610	0.0093979658558965	jeep, landrover
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00043903.png
+469	0.95383340120316	cab, hack, taxi, taxicab
+804	0.0096193244680762	snowplow, snowplough
+752	0.0057404018007219	racer, race car, racing car
+780	0.0052709798328578	school bus
+582	0.0033735302276909	grille, radiator grille
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/469/ILSVRC2012_val_00044318.png
+469	0.38804864883423	cab, hack, taxi, taxicab
+752	0.30220481753349	racer, race car, racing car
+818	0.094175301492214	sports car, sport car
+480	0.056075755506754	car wheel
+896	0.036284066736698	warplane, military plane
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00007245.png
+35	0.53002613782883	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+702	0.11835236847401	parachute, chute
+34	0.048653680831194	loggerhead, loggerhead turtle, Caretta caretta
+406	0.026785159483552	airship, dirigible
+815	0.022525485605001	speedboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00008828.png
+778	0.27650728821754	scabbard
+624	0.18150226771832	letter opener, paper knife, paperknife
+796	0.073318719863892	ski
+457	0.06292711943388	bow
+785	0.038658108562231	screwdriver
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00026054.png
+896	0.45743715763092	warplane, military plane
+658	0.13025858998299	missile
+745	0.12954415380955	projectile, missile
+130	0.032899767160416	spoonbill
+95	0.030842674896121	hummingbird
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00026990.png
+115	0.79263544082642	slug
+112	0.10837838798761	nematode, nematode worm, roundworm
+148	0.016089525073767	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+51	0.0092893745750189	American alligator, Alligator mississipiensis
+22	0.0055356374941766	kite
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00028376.png
+658	0.44471362233162	missile
+745	0.35881263017654	projectile, missile
+768	0.029732557013631	rubber eraser, rubber, pencil eraser
+896	0.022541556507349	warplane, military plane
+406	0.019782539457083	airship, dirigible
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00028660.png
+112	0.55485934019089	nematode, nematode worm, roundworm
+115	0.16240280866623	slug
+148	0.13375246524811	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+319	0.017223009839654	lacewing, lacewing fly
+66	0.016597859561443	sea snake
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00033316.png
+112	0.6216214299202	nematode, nematode worm, roundworm
+319	0.14352004230022	lacewing, lacewing fly
+115	0.045733645558357	slug
+678	0.029367139562964	nail
+66	0.017366025596857	sea snake
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00039945.png
+658	0.3026576936245	missile
+745	0.23399218916893	projectile, missile
+768	0.10829325765371	rubber eraser, rubber, pencil eraser
+697	0.050826460123062	paintbrush
+559	0.037626020610332	flute, transverse flute
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00043133.png
+115	0.14374648034573	slug
+111	0.11822447925806	flatworm, platyhelminth
+702	0.11283930391073	parachute, chute
+112	0.080183789134026	nematode, nematode worm, roundworm
+66	0.051340587437153	sea snake
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/473/ILSVRC2012_val_00048455.png
+834	0.16820751130581	submarine, pigboat, sub, U-boat
+151	0.15411376953125	sea lion
+745	0.094581089913845	projectile, missile
+658	0.082744866609573	missile
+473	0.069943338632584	canoe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00005705.png
+488	0.87099999189377	cellular telephone, cellular phone, cellphone, cell, mobile phone
+762	0.055759493261576	remote control, remote
+591	0.013436229899526	hand-held computer, hand-held microcomputer
+883	0.005895942915231	vacuum, vacuum cleaner
+899	0.0054437313228846	water bottle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00006156.png
+488	0.86490803956985	cellular telephone, cellular phone, cellphone, cell, mobile phone
+762	0.12148024141788	remote control, remote
+591	0.011544798500836	hand-held computer, hand-held microcomputer
+606	0.00064947764622048	iPod
+755	0.00036434546927921	radio, wireless
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00008314.png
+488	0.82220560312271	cellular telephone, cellular phone, cellphone, cell, mobile phone
+606	0.11952113360167	iPod
+762	0.048436284065247	remote control, remote
+591	0.0087429545819759	hand-held computer, hand-held microcomputer
+755	0.00029703247128054	radio, wireless
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00011346.png
+762	0.5536698102951	remote control, remote
+903	0.14041444659233	whistle
+845	0.077387005090714	switch, electric switch, electrical switch
+488	0.077057749032974	cellular telephone, cellular phone, cellphone, cell, mobile phone
+627	0.020078470930457	lighter, light, igniter, ignitor
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00011809.png
+488	0.88377922773361	cellular telephone, cellular phone, cellphone, cell, mobile phone
+762	0.10300072282553	remote control, remote
+591	0.0060156011022627	hand-held computer, hand-held microcomputer
+755	0.0013897242024541	radio, wireless
+689	0.00070621498161927	oscilloscope, scope, cathode-ray oscilloscope, CRO
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00016828.png
+488	0.87277871370316	cellular telephone, cellular phone, cellphone, cell, mobile phone
+591	0.11615473031998	hand-held computer, hand-held microcomputer
+627	0.0024390544276685	lighter, light, igniter, ignitor
+894	0.0021628036629409	wallet, billfold, notecase, pocketbook
+762	0.0012239109491929	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00028116.png
+488	0.87475478649139	cellular telephone, cellular phone, cellphone, cell, mobile phone
+606	0.033575620502234	iPod
+762	0.015848360955715	remote control, remote
+591	0.012914728373289	hand-held computer, hand-held microcomputer
+852	0.009398702532053	television, television system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00030872.png
+488	0.83589315414429	cellular telephone, cellular phone, cellphone, cell, mobile phone
+762	0.06976729631424	remote control, remote
+663	0.069006644189358	modem
+591	0.0060554002411664	hand-held computer, hand-held microcomputer
+845	0.0041696382686496	switch, electric switch, electrical switch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00033654.png
+488	0.58852517604828	cellular telephone, cellular phone, cellphone, cell, mobile phone
+591	0.40284013748169	hand-held computer, hand-held microcomputer
+532	0.0055223214440048	digital watch
+762	0.0009485749178566	remote control, remote
+827	0.00084616016829386	stopwatch, stop watch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/488/ILSVRC2012_val_00043042.png
+682	0.61841541528702	notebook, notebook computer
+591	0.11149661242962	hand-held computer, hand-held microcomputer
+621	0.10984184592962	laptop, laptop computer
+509	0.080216832458973	computer keyboard, keypad
+488	0.020114447921515	cellular telephone, cellular phone, cellphone, cell, mobile phone
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00000506.png
+496	0.80130821466446	china cabinet, china closet
+454	0.12054526805878	bookcase
+494	0.030958700925112	chiffonier, commode
+549	0.014928691089153	entertainment center
+649	0.0084134852513671	medicine chest, medicine cabinet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00003284.png
+496	0.99980312585831	china cabinet, china closet
+454	0.00015278898354154	bookcase
+494	1.1259437997069e-05	chiffonier, commode
+549	1.1191758858331e-05	entertainment center
+649	1.0857069355552e-05	medicine chest, medicine cabinet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00007272.png
+730	0.56827163696289	plate rack
+828	0.088467657566071	stove
+557	0.083257287740707	fire screen, fireguard
+767	0.062808811664581	rotisserie
+496	0.035543207079172	china cabinet, china closet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00015445.png
+496	0.99913847446442	china cabinet, china closet
+454	0.00024995510466397	bookcase
+549	0.00014389569696505	entertainment center
+895	0.00013679295079783	wardrobe, closet, press
+893	0.00011655972048175	wall clock
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00018199.png
+584	0.37116703391075	guillotine
+496	0.25103545188904	china cabinet, china closet
+605	0.13390842080116	hourglass
+893	0.040214959532022	wall clock
+427	0.029256531968713	barometer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00022431.png
+496	0.89406502246857	china cabinet, china closet
+454	0.046652477234602	bookcase
+549	0.028193075209856	entertainment center
+895	0.01328307762742	wardrobe, closet, press
+494	0.0063372529111803	chiffonier, commode
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00023746.png
+496	0.97861051559448	china cabinet, china closet
+584	0.007245859131217	guillotine
+454	0.0045087039470673	bookcase
+549	0.0043541151098907	entertainment center
+895	0.0010343744652346	wardrobe, closet, press
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00036447.png
+496	0.92863374948502	china cabinet, china closet
+454	0.012529699131846	bookcase
+882	0.0078343385830522	upright, upright piano
+527	0.0070532476529479	desk
+494	0.0057917656376958	chiffonier, commode
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00038333.png
+496	0.94224053621292	china cabinet, china closet
+584	0.024449601769447	guillotine
+605	0.012506095692515	hourglass
+549	0.0050942744128406	entertainment center
+454	0.0027576533611864	bookcase
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/496/ILSVRC2012_val_00047749.png
+496	0.90838366746902	china cabinet, china closet
+895	0.062563627958298	wardrobe, closet, press
+454	0.0095272175967693	bookcase
+527	0.0046944380737841	desk
+494	0.0036042865831405	chiffonier, commode
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00002249.png
+535	0.62584334611893	dishwasher, dish washer, dishwashing machine
+773	0.075590781867504	safety pin
+675	0.069626204669476	mousetrap
+557	0.049313925206661	fire screen, fireguard
+792	0.036497857421637	shopping cart
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00012585.png
+894	0.16443052887917	wallet, billfold, notecase, pocketbook
+812	0.11359894275665	space heater
+413	0.10683954507113	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+845	0.045190218836069	switch, electric switch, electrical switch
+464	0.039181713014841	bucket, pail
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00021421.png
+550	0.4168786406517	envelope
+761	0.1497617661953	refrigerator, icebox
+420	0.033579114824533	Band Aid
+895	0.031862452626228	wardrobe, closet, press
+770	0.030767502263188	rule, ruler
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00025995.png
+535	0.95572048425674	dishwasher, dish washer, dishwashing machine
+898	0.029358722269535	washer, automatic washer, washing machine
+761	0.0057583497837186	refrigerator, icebox
+812	0.0048967469483614	space heater
+828	0.0013502036454156	stove
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00026570.png
+845	0.31855756044388	switch, electric switch, electrical switch
+761	0.19868166744709	refrigerator, icebox
+413	0.14802692830563	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+638	0.092996954917908	mailbox, letter box
+812	0.054025996476412	space heater
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00029869.png
+675	0.81917744874954	mousetrap
+584	0.046895891427994	guillotine
+482	0.013575969263911	cassette
+711	0.013403436169028	pencil sharpener
+743	0.010857119224966	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00035882.png
+761	0.36211305856705	refrigerator, icebox
+743	0.11084321141243	printer
+675	0.10815426707268	mousetrap
+535	0.057347793132067	dishwasher, dish washer, dishwashing machine
+481	0.035484187304974	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00039033.png
+535	0.96538990736008	dishwasher, dish washer, dishwashing machine
+792	0.029590325430036	shopping cart
+730	0.0026189221534878	plate rack
+791	0.00049421290168539	shopping basket
+761	0.00033679671469145	refrigerator, icebox
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00043740.png
+675	0.61834537982941	mousetrap
+621	0.066194526851177	laptop, laptop computer
+779	0.063967987895012	scale, weighing machine
+584	0.032006040215492	guillotine
+560	0.028480937704444	folding chair
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/535/ILSVRC2012_val_00048397.png
+792	0.88752746582031	shopping cart
+804	0.011960111558437	snowplow, snowplough
+526	0.011098547838628	dam, dike, dyke
+675	0.0071601937524974	mousetrap
+730	0.0063810953870416	plate rack
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00000662.png
+580	0.98964148759842	grand piano, grand
+882	0.010347908362746	upright, upright piano
+688	9.9556009445223e-06	organ, pipe organ
+879	1.273516687661e-07	typewriter keyboard
+704	9.3227136233054e-08	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00002690.png
+580	0.99880802631378	grand piano, grand
+882	0.0010285542812198	upright, upright piano
+470	1.2276803317945e-05	caldron, cauldron
+890	1.1339339835104e-05	violin, fiddle
+487	1.0226367521682e-05	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00006036.png
+580	0.99994897842407	grand piano, grand
+882	2.5442615879001e-05	upright, upright piano
+487	1.0615825885907e-05	cello, violoncello
+890	8.3077093222528e-06	violin, fiddle
+737	3.6388100852491e-06	pool table, billiard table, snooker table
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00007450.png
+580	0.99897384643555	grand piano, grand
+882	0.0010257507674396	upright, upright piano
+688	2.5111114609899e-07	organ, pipe organ
+402	2.354207495614e-08	accordion, piano accordion, squeeze box
+433	2.2646412745075e-08	bassoon
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00007940.png
+580	0.99985325336456	grand piano, grand
+882	0.00014006947458256	upright, upright piano
+429	1.537225557513e-06	barrow, garden cart, lawn cart, wheelbarrow
+145	4.9569388238524e-07	pelican
+470	4.3830692675328e-07	caldron, cauldron
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00016899.png
+580	0.9996976852417	grand piano, grand
+882	0.0002718351315707	upright, upright piano
+596	6.8798130996583e-06	harvester, reaper
+879	4.7855919547146e-06	typewriter keyboard
+658	1.6928034938246e-06	missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00018954.png
+580	0.99910491704941	grand piano, grand
+882	0.00031710328767076	upright, upright piano
+704	7.6589778473135e-05	park bench
+845	5.6231863709399e-05	switch, electric switch, electrical switch
+517	4.1608942410676e-05	cradle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00028864.png
+580	0.98947691917419	grand piano, grand
+518	0.0023337861057371	crane
+882	0.0021154717542231	upright, upright piano
+433	0.00080876162974164	bassoon
+808	0.00067836261587217	solar dish, solar collector, solar furnace
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00029617.png
+580	0.99398636817932	grand piano, grand
+882	0.0050355768762529	upright, upright piano
+643	0.00026568479370326	marimba, xylophone
+533	0.00024855689844117	dining table, board
+487	0.00010691695206333	cello, violoncello
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/580/ILSVRC2012_val_00047672.png
+580	0.98034292459488	grand piano, grand
+704	0.0035800014156848	park bench
+882	0.0024056730326265	upright, upright piano
+737	0.0022599811200052	pool table, billiard table, snooker table
+429	0.0021802615374327	barrow, garden cart, lawn cart, wheelbarrow
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00001713.png
+621	0.45473620295525	laptop, laptop computer
+682	0.24991881847382	notebook, notebook computer
+528	0.11695309728384	desktop computer
+783	0.061210677027702	screen, CRT screen
+852	0.040140759199858	television, television system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00002580.png
+682	0.85185998678207	notebook, notebook computer
+621	0.14769911766052	laptop, laptop computer
+663	0.00011341998470016	modem
+811	6.4573367126286e-05	space bar
+509	5.2226085244911e-05	computer keyboard, keypad
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00005940.png
+459	0.13637875020504	brass, memorial tablet, plaque
+540	0.082193270325661	doormat, welcome mat
+607	0.080995805561543	iron, smoothing iron
+621	0.056062251329422	laptop, laptop computer
+682	0.041764061897993	notebook, notebook computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00015965.png
+682	0.56118112802505	notebook, notebook computer
+621	0.42494302988052	laptop, laptop computer
+528	0.0050179418176413	desktop computer
+509	0.0019317754777148	computer keyboard, keypad
+663	0.0016329057980329	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00021413.png
+621	0.47707009315491	laptop, laptop computer
+682	0.22290372848511	notebook, notebook computer
+772	0.14051768183708	safe
+493	0.037915952503681	chest
+894	0.020126106217504	wallet, billfold, notecase, pocketbook
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00021447.png
+621	0.22701370716095	laptop, laptop computer
+682	0.20709078013897	notebook, notebook computer
+779	0.1782641261816	scale, weighing machine
+447	0.12220337986946	binder, ring-binder
+634	0.055021625012159	loupe, jeweler's loupe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00022093.png
+682	0.62696778774261	notebook, notebook computer
+621	0.34323492646217	laptop, laptop computer
+591	0.0072868592105806	hand-held computer, hand-held microcomputer
+663	0.0055140652693808	modem
+528	0.0033322640229017	desktop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00022256.png
+682	0.65922635793686	notebook, notebook computer
+621	0.30947449803352	laptop, laptop computer
+591	0.0074981125071645	hand-held computer, hand-held microcomputer
+811	0.005185273475945	space bar
+528	0.0040236632339656	desktop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00047429.png
+621	0.5239560008049	laptop, laptop computer
+682	0.40913903713226	notebook, notebook computer
+528	0.011166944168508	desktop computer
+509	0.0096057271584868	computer keyboard, keypad
+674	0.0077510662376881	mouse, computer mouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/621/ILSVRC2012_val_00048251.png
+540	0.69251585006714	doormat, welcome mat
+894	0.23756584525108	wallet, billfold, notecase, pocketbook
+459	0.013463361188769	brass, memorial tablet, plaque
+742	0.0086967693641782	prayer rug, prayer mat
+621	0.0051045389845967	laptop, laptop computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00001438.png
+628	0.99946063756943	limousine, limo
+480	6.6147935285699e-05	car wheel
+657	5.5778371461201e-05	minivan
+752	4.7226931201294e-05	racer, race car, racing car
+437	2.7029826014768e-05	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00003924.png
+628	0.99448651075363	limousine, limo
+831	0.00085481163114309	stretcher
+408	0.00076547218486667	ambulance
+405	0.00048001855611801	airliner
+735	0.00035504068364389	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00004831.png
+628	0.5145006775856	limousine, limo
+752	0.074471652507782	racer, race car, racing car
+582	0.058311711996794	grille, radiator grille
+437	0.039368327707052	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+865	0.031036527827382	tow truck, tow car, wrecker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00005809.png
+628	0.20746134221554	limousine, limo
+752	0.074659593403339	racer, race car, racing car
+476	0.071846343576908	car mirror
+480	0.054696347564459	car wheel
+657	0.043665498495102	minivan
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00011618.png
+628	0.99021297693253	limousine, limo
+735	0.00496233580634	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+655	0.0011388539569452	minibus
+408	0.0011375916656107	ambulance
+610	0.00079427671153098	jeep, landrover
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00016945.png
+628	0.99839609861374	limousine, limo
+437	0.00064659450436011	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+582	0.0001263014273718	grille, radiator grille
+831	7.4074574513361e-05	stretcher
+735	7.1603673859499e-05	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00026977.png
+628	0.99245971441269	limousine, limo
+437	0.0032601279672235	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+582	0.001312306849286	grille, radiator grille
+865	0.00065100460778922	tow truck, tow car, wrecker
+480	0.00047154416097328	car wheel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00035788.png
+628	0.9870457649231	limousine, limo
+437	0.0026277990546077	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+752	0.0021232033614069	racer, race car, racing car
+582	0.0015273970784619	grille, radiator grille
+706	0.0014132668729872	passenger car, coach, carriage
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00041512.png
+437	0.47295597195625	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+628	0.26794841885567	limousine, limo
+582	0.092983052134514	grille, radiator grille
+657	0.062046304345131	minivan
+480	0.049126502126455	car wheel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/628/ILSVRC2012_val_00044056.png
+610	0.29123273491859	jeep, landrover
+593	0.13302996754646	hard disc, hard disk, fixed disk
+627	0.072480082511902	lighter, light, igniter, ignitor
+437	0.07145382463932	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+663	0.070933677256107	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00000109.png
+633	0.97878015041351	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+486	0.0081986058503389	CD player
+755	0.0071550100110471	radio, wireless
+849	0.001522718463093	tape player
+762	0.0014089547330514	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00000640.png
+633	0.2871561050415	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+849	0.19688500463963	tape player
+483	0.13775311410427	cassette player
+486	0.12225975841284	CD player
+606	0.096343696117401	iPod
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00000783.png
+633	0.88310563564301	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+621	0.015129935927689	laptop, laptop computer
+540	0.011055666022003	doormat, welcome mat
+812	0.01038658991456	space heater
+762	0.0080177346244454	remote control, remote
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00005562.png
+633	0.98170608282089	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+812	0.0069053461775184	space heater
+849	0.002506356453523	tape player
+755	0.0023891108576208	radio, wireless
+483	0.0015820603584871	cassette player
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00012602.png
+633	0.93940103054047	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+557	0.019936300814152	fire screen, fireguard
+849	0.0089949369430542	tape player
+483	0.0083976313471794	cassette player
+755	0.0038332270924002	radio, wireless
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00016702.png
+633	0.42160400748253	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+805	0.14462539553642	soap dispenser
+593	0.082507915794849	hard disc, hard disk, fixed disk
+845	0.077346421778202	switch, electric switch, electrical switch
+663	0.074730806052685	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00017612.png
+633	0.96532094478607	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+812	0.022462027147412	space heater
+413	0.0055579016916454	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+663	0.0010140435770154	modem
+845	0.00082972855307162	switch, electric switch, electrical switch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00024720.png
+633	0.94041627645493	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+578	0.024801844730973	gong, tam-tam
+755	0.010745914652944	radio, wireless
+727	0.0029182536527514	plane, carpenter's plane, woodworking plane
+495	0.0026250823866576	chime, bell, gong
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00025111.png
+633	0.46816673874855	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+812	0.20511035621166	space heater
+663	0.12885174155235	modem
+860	0.049632400274277	toaster
+607	0.030344072729349	iron, smoothing iron
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/633/ILSVRC2012_val_00025560.png
+845	0.37818849086761	switch, electric switch, electrical switch
+668	0.063020385801792	mortarboard
+449	0.054299805313349	birdhouse
+793	0.033012758940458	shovel
+682	0.026816477999091	notebook, notebook computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00000364.png
+638	0.28388786315918	mailbox, letter box
+845	0.11368132382631	switch, electric switch, electrical switch
+920	0.074996151030064	street sign
+701	0.063182860612869	paper towel
+743	0.04339612647891	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00002203.png
+638	0.53440147638321	mailbox, letter box
+845	0.070751428604126	switch, electric switch, electrical switch
+701	0.068712241947651	paper towel
+406	0.030390413478017	airship, dirigible
+743	0.026391426101327	printer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00003949.png
+638	0.58089697360992	mailbox, letter box
+748	0.080241955816746	punching bag, punch bag, punching ball, punchball
+413	0.071425825357437	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+899	0.0156942717731	water bottle
+474	0.01256444863975	can opener, tin opener
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00007759.png
+638	0.95210534334183	mailbox, letter box
+845	0.015222944319248	switch, electric switch, electrical switch
+708	0.0055347420275211	pay-phone, pay-station
+903	0.0052346643060446	whistle
+675	0.0022112836595625	mousetrap
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00012031.png
+638	0.99928843975067	mailbox, letter box
+413	0.00040016690036282	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+805	8.8015811343212e-05	soap dispenser
+481	3.7821715523023e-05	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+845	2.5654398996267e-05	switch, electric switch, electrical switch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00012802.png
+705	0.4902383685112	parking meter
+638	0.21404248476028	mailbox, letter box
+812	0.0506138689816	space heater
+413	0.044878534972668	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+415	0.028689108788967	backpack, back pack, knapsack, packsack, rucksack, haversack
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00013096.png
+819	0.20752085745335	spotlight, spot
+845	0.17632131278515	switch, electric switch, electrical switch
+746	0.049797788262367	projector
+921	0.048893559724092	traffic light, traffic signal, stoplight
+873	0.048787269741297	tripod
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00024544.png
+845	0.56804877519608	switch, electric switch, electrical switch
+638	0.088572569191456	mailbox, letter box
+711	0.063515119254589	pencil sharpener
+761	0.032176397740841	refrigerator, icebox
+550	0.01697389036417	envelope
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00024783.png
+741	0.39225468039513	power drill
+614	0.31097054481506	joystick
+819	0.18164424598217	spotlight, spot
+873	0.037816356867552	tripod
+863	0.014318047091365	torch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/638/ILSVRC2012_val_00036617.png
+638	0.95053052902222	mailbox, letter box
+413	0.015107750892639	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+474	0.0058813374489546	can opener, tin opener
+899	0.0038809445686638	water bottle
+654	0.0017102719284594	milk can
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00002964.png
+678	0.12419860064983	nail
+785	0.1192884221673	screwdriver
+321	0.10662508755922	damselfly
+651	0.10211837291718	microphone, mike
+320	0.10042535513639	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00003465.png
+651	0.99560850858688	microphone, mike
+819	0.0011049968888983	spotlight, spot
+748	0.00072616204852238	punching bag, punch bag, punching ball, punchball
+755	0.00028227106668055	radio, wireless
+633	0.00025068363174796	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00003611.png
+651	0.99999856948853	microphone, mike
+814	5.7547111964595e-07	spatula
+590	4.6037382617214e-07	hand blower, blow dryer, blow drier, hair dryer, hair drier
+829	1.8597908990614e-07	strainer
+819	1.4570710504813e-07	spotlight, spot
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00012172.png
+678	0.78837937116623	nail
+784	0.11058465391397	screw
+785	0.053893778473139	screwdriver
+747	0.0042723924852908	puck, hockey puck
+846	0.0037611008156091	syringe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00021431.png
+651	0.9952666759491	microphone, mike
+856	0.0025029100943357	thimble
+768	0.00047011964488775	rubber eraser, rubber, pencil eraser
+745	0.00032916685449891	projectile, missile
+863	0.00028773734811693	torch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00023721.png
+651	0.99458622932434	microphone, mike
+586	0.0016905697993934	hair spray
+863	0.0014496246585622	torch
+687	0.00072151748463511	oil filter
+856	0.00036479637492448	thimble
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00031013.png
+873	0.51895672082901	tripod
+414	0.073330640792847	assault rifle, assault gun
+764	0.039034072309732	revolver, six-gun, six-shooter
+765	0.033691260963678	rifle
+622	0.011959789320827	lawn mower, mower
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00033438.png
+627	0.88946503400803	lighter, light, igniter, ignitor
+651	0.077322766184807	microphone, mike
+778	0.0079947365447879	scabbard
+863	0.0066504669375718	torch
+899	0.0049742762930691	water bottle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00048612.png
+702	0.25701966881752	parachute, chute
+418	0.13285282254219	balloon
+406	0.056875716894865	airship, dirigible
+747	0.038310904055834	puck, hockey puck
+845	0.033741001039743	switch, electric switch, electrical switch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/651/ILSVRC2012_val_00049557.png
+678	0.91093635559082	nail
+645	0.032001599669456	matchstick
+702	0.0053195492364466	parachute, chute
+651	0.0049336580559611	microphone, mike
+316	0.0040222322568297	mantis, mantid
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00004485.png
+652	0.40773749351501	microwave, microwave oven
+772	0.35783442854881	safe
+852	0.097014293074608	television, television system
+828	0.022089069709182	stove
+894	0.02203169837594	wallet, billfold, notecase, pocketbook
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00007943.png
+772	0.75457179546356	safe
+652	0.074792921543121	microwave, microwave oven
+812	0.062289349734783	space heater
+665	0.027365826070309	monitor
+852	0.022848546504974	television, television system
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00009531.png
+500	0.59360945224762	cleaver, meat cleaver, chopper
+845	0.070791274309158	switch, electric switch, electrical switch
+597	0.044137861579657	hatchet
+812	0.036746386438608	space heater
+663	0.020201763138175	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00022020.png
+652	0.63900184631348	microwave, microwave oven
+689	0.14589317142963	oscilloscope, scope, cathode-ray oscilloscope, CRO
+783	0.06473995000124	screen, CRT screen
+852	0.06206026673317	television, television system
+828	0.04135137796402	stove
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00027917.png
+479	0.10820230841637	carton
+845	0.10425251722336	switch, electric switch, electrical switch
+668	0.078639693558216	mortarboard
+638	0.064944639801979	mailbox, letter box
+894	0.062966138124466	wallet, billfold, notecase, pocketbook
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00028554.png
+747	0.22575077414513	puck, hockey puck
+682	0.21166343986988	notebook, notebook computer
+845	0.12108219414949	switch, electric switch, electrical switch
+554	0.050017639994621	file, file cabinet, filing cabinet
+663	0.045739803463221	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00034707.png
+531	0.29971197247505	digital clock
+772	0.19566828012466	safe
+652	0.15182073414326	microwave, microwave oven
+779	0.13339804112911	scale, weighing machine
+532	0.036076031625271	digital watch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00037721.png
+652	0.99974530935287	microwave, microwave oven
+852	9.0953639301006e-05	television, television system
+767	3.5821634810418e-05	rotisserie
+860	2.9635270038852e-05	toaster
+812	2.443976518407e-05	space heater
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00039433.png
+852	0.64264661073685	television, television system
+652	0.33795794844627	microwave, microwave oven
+783	0.016947878524661	screen, CRT screen
+689	0.00063461303943768	oscilloscope, scope, cathode-ray oscilloscope, CRO
+828	0.00031750707421452	stove
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/652/ILSVRC2012_val_00039480.png
+845	0.32859241962433	switch, electric switch, electrical switch
+449	0.18113660812378	birdhouse
+638	0.08243777602911	mailbox, letter box
+812	0.07372660189867	space heater
+921	0.020945739001036	traffic light, traffic signal, stoplight
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00002930.png
+704	0.69072014093399	park bench
+540	0.16932862997055	doormat, welcome mat
+832	0.081603050231934	studio couch, day bed
+844	0.01707236841321	swing
+560	0.0025624795816839	folding chair
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00006809.png
+831	0.91022747755051	stretcher
+792	0.048392899334431	shopping cart
+704	0.0095096547156572	park bench
+765	0.0066283573396504	rifle
+414	0.0020215075928718	assault rifle, assault gun
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00010731.png
+704	0.99117296934128	park bench
+832	0.0080966940149665	studio couch, day bed
+844	0.00024452651268803	swing
+560	8.7464439275209e-05	folding chair
+521	6.810795457568e-05	crib, cot
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00012464.png
+704	0.99878424406052	park bench
+765	0.00033197528682649	rifle
+414	0.00011649118823698	assault rifle, assault gun
+859	9.1399051598273e-05	tile roof
+422	9.1157577116974e-05	bannister, banister, balustrade, balusters, handrail
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00019835.png
+880	0.22692175209522	umbrella
+620	0.21008358895779	lampshade, lamp shade
+517	0.058276709169149	cradle
+788	0.048190299421549	shield, buckler
+847	0.044611137360334	table lamp
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00024602.png
+704	0.91481238603592	park bench
+584	0.022476766258478	guillotine
+831	0.0096071306616068	stretcher
+601	0.008729875087738	hook, claw
+417	0.0063136257231236	balance beam, beam
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00026124.png
+704	0.9933688044548	park bench
+831	0.0058644316159189	stretcher
+560	0.00020141486311331	folding chair
+832	0.00019980476645287	studio couch, day bed
+751	4.6824487071717e-05	quilt, comforter, comfort, puff
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00034159.png
+704	0.99565106630325	park bench
+844	0.003179136896506	swing
+831	0.00056685891468078	stretcher
+413	6.6306187363807e-05	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+560	6.5310458012391e-05	folding chair
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00038706.png
+704	0.27359601855278	park bench
+844	0.15572343766689	swing
+734	0.086428001523018	pole
+792	0.077284500002861	shopping cart
+678	0.043491069227457	nail
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/704/ILSVRC2012_val_00048038.png
+704	0.72981995344162	park bench
+913	0.099590063095093	worm fence, snake fence, snake-rail fence, Virginia fence
+678	0.042532462626696	nail
+831	0.011395620182157	stretcher
+787	0.0086679831147194	sewing machine
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00000966.png
+781	0.98568069934845	schooner
+915	0.010861634276807	yawl
+673	0.0017171527724713	mountain tent
+725	0.0014444494154304	pirate, pirate ship
+592	7.8270641097333e-05	handkerchief, hankie, hanky, hankey
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00002130.png
+804	0.28923779726028	snowplow, snowplough
+725	0.055432114750147	pirate, pirate ship
+731	0.053680628538132	plow, plough
+587	0.027477744966745	half track
+626	0.026042884215713	lifeboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00011189.png
+725	0.29253160953522	pirate, pirate ship
+914	0.15393222868443	wreck
+896	0.1244720891118	warplane, military plane
+587	0.08197208493948	half track
+678	0.060796055942774	nail
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00012691.png
+725	0.99420517683029	pirate, pirate ship
+626	0.0013559520011768	lifeboat
+537	0.00091327709378675	dock, dockage, docking facility
+555	0.00090335262939334	fireboat
+914	0.00080383097520098	wreck
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00017696.png
+914	0.8860672712326	wreck
+725	0.081133842468262	pirate, pirate ship
+541	0.011263442225754	drilling platform, offshore rig
+518	0.0043671382591128	crane
+781	0.0021951622329652	schooner
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00022353.png
+725	0.98887026309967	pirate, pirate ship
+449	0.0052350233308971	birdhouse
+525	0.0013320395955816	cuirass
+443	0.00069868570426479	bell cote, bell cot
+462	0.00063025171402842	breastplate, aegis, egis
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00030410.png
+725	0.95105665922165	pirate, pirate ship
+914	0.0073994230479002	wreck
+404	0.0050860028713942	aircraft carrier, carrier, flattop, attack aircraft carrier
+896	0.0046458491124213	warplane, military plane
+626	0.0029087651055306	lifeboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00032776.png
+781	0.58206236362457	schooner
+725	0.35189244151115	pirate, pirate ship
+915	0.05158731713891	yawl
+541	0.0019418356241658	drilling platform, offshore rig
+658	0.0014471227768809	missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00040013.png
+914	0.46305927634239	wreck
+834	0.1773342192173	submarine, pigboat, sub, U-boat
+725	0.16603748500347	pirate, pirate ship
+626	0.049113646149635	lifeboat
+409	0.048268679529428	amphibian, amphibious vehicle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/725/ILSVRC2012_val_00044338.png
+914	0.25834804773331	wreck
+725	0.22927166521549	pirate, pirate ship
+781	0.094438977539539	schooner
+315	0.063160263001919	cockroach, roach
+702	0.041527025401592	parachute, chute
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00003258.png
+743	0.82068872451782	printer
+714	0.064859472215176	photocopier
+812	0.062319625169039	space heater
+554	0.01080683991313	file, file cabinet, filing cabinet
+481	0.0078911762684584	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00005278.png
+743	0.96557438373566	printer
+714	0.0094017405062914	photocopier
+675	0.0091661252081394	mousetrap
+481	0.0023862197995186	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+772	0.0023417114280164	safe
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00009689.png
+663	0.3879442512989	modem
+743	0.28380873799324	printer
+799	0.10040742903948	slide rule, slipstick
+486	0.061387605965137	CD player
+812	0.025146063417196	space heater
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00014579.png
+743	0.68178814649582	printer
+787	0.11570589989424	sewing machine
+714	0.08078058809042	photocopier
+527	0.042655471712351	desk
+587	0.013636080548167	half track
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00016838.png
+743	0.88980674743652	printer
+714	0.050604667514563	photocopier
+483	0.011181695386767	cassette player
+607	0.0073716510087252	iron, smoothing iron
+849	0.0049060988239944	tape player
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00020731.png
+743	0.93416225910187	printer
+663	0.017814988270402	modem
+714	0.011336721479893	photocopier
+481	0.0088953422382474	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+701	0.0082930391654372	paper towel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00021544.png
+743	0.60755860805511	printer
+787	0.13270546495914	sewing machine
+761	0.10979270190001	refrigerator, icebox
+550	0.039976492524147	envelope
+701	0.026646697893739	paper towel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00033653.png
+793	0.64627242088318	shovel
+743	0.095956265926361	printer
+500	0.06956934183836	cleaver, meat cleaver, chopper
+466	0.037928301841021	bulletproof vest
+701	0.027697009965777	paper towel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00037620.png
+743	0.93289917707443	printer
+714	0.056040339171886	photocopier
+479	0.0039280960336328	carton
+413	0.0021127066574991	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+812	0.00051785999676213	space heater
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/743/ILSVRC2012_val_00048309.png
+804	0.20900136232376	snowplow, snowplough
+701	0.11685291677713	paper towel
+731	0.098365314304829	plow, plough
+812	0.087609566748142	space heater
+755	0.086308494210243	radio, wireless
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00002910.png
+762	0.96547538042068	remote control, remote
+770	0.0061410795897245	rule, ruler
+420	0.0047677587717772	Band Aid
+627	0.0030720583163202	lighter, light, igniter, ignitor
+814	0.0024928208440542	spatula
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00006113.png
+420	0.49054053425789	Band Aid
+627	0.13544289767742	lighter, light, igniter, ignitor
+762	0.11863271892071	remote control, remote
+770	0.059756875038147	rule, ruler
+903	0.03743889555335	whistle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00022985.png
+762	0.99913847446442	remote control, remote
+488	0.00047635732335038	cellular telephone, cellular phone, cellphone, cell, mobile phone
+591	0.00033896576496772	hand-held computer, hand-held microcomputer
+755	1.0307899174222e-05	radio, wireless
+663	4.1606276681705e-06	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00024947.png
+420	0.3515088558197	Band Aid
+762	0.34033814072609	remote control, remote
+659	0.057292837649584	mitten
+591	0.031466424465179	hand-held computer, hand-held microcomputer
+778	0.024349290877581	scabbard
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00028651.png
+762	0.99802100658417	remote control, remote
+488	0.0015817873645574	cellular telephone, cellular phone, cellphone, cell, mobile phone
+591	9.2658156063408e-05	hand-held computer, hand-held microcomputer
+755	5.3494331950787e-05	radio, wireless
+663	3.0414295906667e-05	modem
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00031904.png
+702	0.32301831245422	parachute, chute
+420	0.25276789069176	Band Aid
+798	0.13414776325226	sleeping bag
+762	0.067123770713806	remote control, remote
+659	0.028141729533672	mitten
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00045938.png
+762	0.74778240919113	remote control, remote
+768	0.04049588739872	rubber eraser, rubber, pencil eraser
+420	0.039650183171034	Band Aid
+419	0.036903794854879	ballpoint, ballpoint pen, ballpen, Biro
+770	0.028128927573562	rule, ruler
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00047274.png
+762	0.51613765954971	remote control, remote
+768	0.17069080471992	rubber eraser, rubber, pencil eraser
+770	0.10688649863005	rule, ruler
+550	0.031145758926868	envelope
+715	0.0094743790104985	pick, plectrum, plectron
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00047386.png
+627	0.47746014595032	lighter, light, igniter, ignitor
+798	0.15320956707001	sleeping bag
+762	0.10460267961025	remote control, remote
+594	0.05595625564456	harmonica, mouth organ, harp, mouth harp
+651	0.034451995044947	microphone, mike
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/762/ILSVRC2012_val_00048845.png
+762	0.9769338965416	remote control, remote
+796	0.0035865567624569	ski
+585	0.0034948212560266	hair slide
+785	0.0025030726101249	screwdriver
+465	0.0013906543608755	buckle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00006061.png
+792	0.86398792266846	shopping cart
+766	0.061212912201881	rocking chair, rocker
+704	0.023758454248309	park bench
+517	0.015975806862116	cradle
+560	0.011188246309757	folding chair
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00014269.png
+766	0.99990177154541	rocking chair, rocker
+560	9.5332783530466e-05	folding chair
+704	9.0612701342252e-07	park bench
+533	4.9484555120216e-07	dining table, board
+517	3.2798033089421e-07	cradle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00015390.png
+766	0.70640999078751	rocking chair, rocker
+560	0.17962203919888	folding chair
+465	0.029322182759643	buckle
+561	0.010455021634698	football helmet
+844	0.0098619675263762	swing
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00017214.png
+766	0.99092662334442	rocking chair, rocker
+560	0.0077610961161554	folding chair
+704	0.0011493770871311	park bench
+533	4.1774765122682e-05	dining table, board
+844	2.8921551347594e-05	swing
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00018123.png
+766	0.93124496936798	rocking chair, rocker
+560	0.033712133765221	folding chair
+858	0.018400775268674	throne
+704	0.013507408089936	park bench
+424	0.0021248119883239	barber chair
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00018206.png
+766	0.94171756505966	rocking chair, rocker
+560	0.053859829902649	folding chair
+704	0.0041114897467196	park bench
+844	0.00012115774006816	swing
+533	2.1077985365991e-05	dining table, board
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00024320.png
+766	0.99983203411102	rocking chair, rocker
+560	5.1422237447696e-05	folding chair
+704	3.1399631552631e-05	park bench
+747	2.1326926798793e-05	puck, hockey puck
+517	8.4679331848747e-06	cradle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00024620.png
+766	0.9962443113327	rocking chair, rocker
+560	0.0033439961262047	folding chair
+858	0.00022674788488075	throne
+533	3.7726069422206e-05	dining table, board
+704	3.0379587769858e-05	park bench
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00033406.png
+766	0.99982953071594	rocking chair, rocker
+560	0.00014055844803806	folding chair
+858	2.7854057407239e-05	throne
+517	1.2918926586281e-06	cradle
+844	3.662286189865e-07	swing
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/766/ILSVRC2012_val_00037370.png
+766	0.99948370456696	rocking chair, rocker
+560	0.0004624298599083	folding chair
+858	4.7807567170821e-05	throne
+704	2.3756110749673e-06	park bench
+844	1.8870789517678e-06	swing
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00001771.png
+780	0.9996235370636	school bus
+610	4.0078335587168e-05	jeep, landrover
+655	3.9074202504708e-05	minibus
+865	3.2342810300179e-05	tow truck, tow car, wrecker
+706	2.8674945497187e-05	passenger car, coach, carriage
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00003709.png
+780	0.993891954422	school bus
+409	0.001918513677083	amphibian, amphibious vehicle
+706	0.00054644688498229	passenger car, coach, carriage
+655	0.00041793976561166	minibus
+875	0.00025833837571554	trolleybus, trolley coach, trackless trolley
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00005166.png
+780	0.43389955163002	school bus
+804	0.33257320523262	snowplow, snowplough
+610	0.11012849211693	jeep, landrover
+570	0.037142977118492	garbage truck, dustcart
+865	0.032221700996161	tow truck, tow car, wrecker
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00007635.png
+780	0.99649041891098	school bus
+706	0.0018681833753362	passenger car, coach, carriage
+655	0.00034637996577658	minibus
+875	0.00019402046746109	trolleybus, trolley coach, trackless trolley
+830	9.6686366305221e-05	streetcar, tram, tramcar, trolley, trolley car
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00011870.png
+780	0.99234616756439	school bus
+706	0.0016698286635801	passenger car, coach, carriage
+482	0.0013878501486033	cassette
+594	0.0011592261726037	harmonica, mouth organ, harp, mouth harp
+875	0.00049983378266916	trolleybus, trolley coach, trackless trolley
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00019046.png
+780	0.99431926012039	school bus
+706	0.0043136486783624	passenger car, coach, carriage
+875	0.00024729102733545	trolleybus, trolley coach, trackless trolley
+655	0.00022615914349444	minibus
+409	0.00011375197209418	amphibian, amphibious vehicle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00024242.png
+780	0.97348296642303	school bus
+610	0.022260030731559	jeep, landrover
+587	0.0011845725821331	half track
+655	0.0005186254857108	minibus
+804	0.00051530846394598	snowplow, snowplough
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00028711.png
+780	0.98020178079605	school bus
+409	0.0045660408213735	amphibian, amphibious vehicle
+655	0.0014483795966953	minibus
+914	0.0012334166094661	wreck
+626	0.00089992547873408	lifeboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00038209.png
+780	0.99948173761368	school bus
+706	0.00020212681556586	passenger car, coach, carriage
+655	7.019420445431e-05	minibus
+875	6.1743514379486e-05	trolleybus, trolley coach, trackless trolley
+469	1.2790253094863e-05	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/780/ILSVRC2012_val_00038506.png
+780	0.99278861284256	school bus
+706	0.003204251639545	passenger car, coach, carriage
+875	0.0017083181301132	trolleybus, trolley coach, trackless trolley
+655	0.0010296952677891	minibus
+409	0.00011046938016079	amphibian, amphibious vehicle
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00002676.png
+852	0.89145410060883	television, television system
+549	0.040138490498066	entertainment center
+783	0.032378319650888	screen, CRT screen
+665	0.015814524143934	monitor
+599	0.012301466427743	home theater, home theatre
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00003507.png
+675	0.71664267778397	mousetrap
+550	0.02436394430697	envelope
+447	0.023214627057314	binder, ring-binder
+479	0.023001546040177	carton
+792	0.019913595169783	shopping cart
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00006324.png
+852	0.68513602018356	television, television system
+783	0.18060323596001	screen, CRT screen
+665	0.11180080473423	monitor
+528	0.011589892208576	desktop computer
+549	0.0087583940476179	entertainment center
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00015386.png
+783	0.37799793481827	screen, CRT screen
+665	0.2936963737011	monitor
+852	0.15556351840496	television, television system
+528	0.017121179029346	desktop computer
+917	0.013947569765151	web site, website, internet site, site
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00024674.png
+783	0.66257351636887	screen, CRT screen
+852	0.1962233632803	television, television system
+665	0.075701139867306	monitor
+528	0.04127836227417	desktop computer
+509	0.0098100071772933	computer keyboard, keypad
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00031893.png
+852	0.91286754608154	television, television system
+783	0.018386624753475	screen, CRT screen
+481	0.012514004483819	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+549	0.0094828102737665	entertainment center
+665	0.0085675688460469	monitor
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00036252.png
+550	0.47039091587067	envelope
+761	0.1531760841608	refrigerator, icebox
+447	0.05495397746563	binder, ring-binder
+921	0.026650590822101	traffic light, traffic signal, stoplight
+682	0.022917097434402	notebook, notebook computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00039436.png
+852	0.99953365325928	television, television system
+783	0.00036058211117052	screen, CRT screen
+549	6.7887136538047e-05	entertainment center
+665	3.5257693525637e-05	monitor
+689	9.8590169272939e-07	oscilloscope, scope, cathode-ray oscilloscope, CRO
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00042871.png
+783	0.24664478003979	screen, CRT screen
+852	0.22555522620678	television, television system
+665	0.089464247226715	monitor
+528	0.086467117071152	desktop computer
+481	0.031941208988428	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/783/ILSVRC2012_val_00046058.png
+621	0.23750855028629	laptop, laptop computer
+540	0.17231638729572	doormat, welcome mat
+593	0.083769612014294	hard disc, hard disk, fixed disk
+845	0.069316826760769	switch, electric switch, electrical switch
+682	0.053930077701807	notebook, notebook computer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00001204.png
+815	0.2586076259613	speedboat
+409	0.083149746060371	amphibian, amphibious vehicle
+607	0.077539011836052	iron, smoothing iron
+769	0.05433776602149	rugby ball
+914	0.0524239577353	wreck
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00002696.png
+815	0.98763459920883	speedboat
+318	0.0066253356635571	leafhopper
+626	0.00094039458781481	lifeboat
+607	0.00053118180949241	iron, smoothing iron
+914	0.00052497762953863	wreck
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00008080.png
+796	0.29152569174767	ski
+406	0.11893384158611	airship, dirigible
+564	0.042212884873152	fountain pen
+419	0.041604928672314	ballpoint, ballpoint pen, ballpen, Biro
+320	0.037986487150192	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00009927.png
+815	0.21356201171875	speedboat
+318	0.12762601673603	leafhopper
+406	0.081224322319031	airship, dirigible
+317	0.071621619164944	cicada, cicala
+564	0.059121176600456	fountain pen
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00010190.png
+542	0.14630761742592	drum, membranophone, tympan
+415	0.097564965486526	backpack, back pack, knapsack, packsack, rucksack, haversack
+888	0.067694455385208	vestment
+788	0.060015559196472	shield, buckler
+466	0.049170482903719	bulletproof vest
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00018893.png
+896	0.67299979925156	warplane, military plane
+909	0.11065355688334	wing
+815	0.072683282196522	speedboat
+658	0.024528492242098	missile
+745	0.017388038337231	projectile, missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00020732.png
+815	0.82646131515503	speedboat
+694	0.070072159171104	paddle, boat paddle
+607	0.0625014975667	iron, smoothing iron
+473	0.022341903299093	canoe
+803	0.0070889792405069	snowmobile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00021647.png
+815	0.95489007234573	speedboat
+769	0.040095314383507	rugby ball
+771	0.0027768404688686	running shoe
+607	0.00081644568126649	iron, smoothing iron
+626	0.00019713171059266	lifeboat
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00039041.png
+896	0.5946986079216	warplane, military plane
+148	0.049905460327864	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+803	0.044348284602165	snowmobile
+798	0.029378334060311	sleeping bag
+51	0.022542363032699	American alligator, Alligator mississipiensis
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/815/ILSVRC2012_val_00043492.png
+896	0.90946710109711	warplane, military plane
+815	0.038897387683392	speedboat
+148	0.012827130965889	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+745	0.0094056837260723	projectile, missile
+658	0.0070052058435977	missile
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00003896.png
+818	0.72154784202576	sports car, sport car
+752	0.16509410738945	racer, race car, racing car
+512	0.060318373143673	convertible
+480	0.036491729319096	car wheel
+582	0.0074034505523741	grille, radiator grille
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00004979.png
+818	0.47551333904266	sports car, sport car
+657	0.12279026210308	minivan
+752	0.11694303154945	racer, race car, racing car
+480	0.093920938670635	car wheel
+469	0.064046137034893	cab, hack, taxi, taxicab
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00006285.png
+818	0.75626754760742	sports car, sport car
+752	0.15957449376583	racer, race car, racing car
+512	0.054475151002407	convertible
+480	0.017603190615773	car wheel
+582	0.0049618002958596	grille, radiator grille
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00008392.png
+818	0.31063434481621	sports car, sport car
+752	0.28772109746933	racer, race car, racing car
+512	0.16220717132092	convertible
+480	0.081224836409092	car wheel
+437	0.05627728998661	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00010455.png
+818	0.40247052907944	sports car, sport car
+752	0.20690317451954	racer, race car, racing car
+480	0.18354639410973	car wheel
+582	0.078514508903027	grille, radiator grille
+437	0.058243624866009	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00025465.png
+512	0.3872691988945	convertible
+752	0.19240175187588	racer, race car, racing car
+818	0.16852787137032	sports car, sport car
+480	0.073635332286358	car wheel
+582	0.040198273956776	grille, radiator grille
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00025587.png
+752	0.50362330675125	racer, race car, racing car
+818	0.24462570250034	sports car, sport car
+512	0.053859602659941	convertible
+480	0.050985805690289	car wheel
+582	0.042029306292534	grille, radiator grille
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00027397.png
+818	0.24906319379807	sports car, sport car
+480	0.19409662485123	car wheel
+512	0.18112096190453	convertible
+752	0.13659255206585	racer, race car, racing car
+437	0.06680865585804	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00047893.png
+752	0.84332740306854	racer, race car, racing car
+818	0.1333836466074	sports car, sport car
+409	0.0083466125652194	amphibian, amphibious vehicle
+480	0.0082800006493926	car wheel
+512	0.0011742004426196	convertible
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/818/ILSVRC2012_val_00049675.png
+752	0.48705399036407	racer, race car, racing car
+818	0.44926503300667	sports car, sport car
+519	0.02412549033761	crash helmet
+883	0.008614900521934	vacuum, vacuum cleaner
+415	0.0061141541227698	backpack, back pack, knapsack, packsack, rucksack, haversack
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00003252.png
+847	0.82614862918854	table lamp
+620	0.1707201898098	lampshade, lamp shade
+948	0.00081494479672983	mushroom
+573	0.00070714490721002	goblet
+819	0.00067518203286454	spotlight, spot
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00006229.png
+847	0.68470573425293	table lamp
+620	0.28187361359596	lampshade, lamp shade
+880	0.014881748706102	umbrella
+678	0.0034898780286312	nail
+948	0.0016553024761379	mushroom
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00008897.png
+847	0.67301958799362	table lamp
+620	0.32442715764046	lampshade, lamp shade
+819	0.0009022222366184	spotlight, spot
+573	0.00026954922941513	goblet
+884	0.00023493690241594	vase
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00017818.png
+847	0.61076456308365	table lamp
+620	0.38754272460938	lampshade, lamp shade
+793	0.00015741965034977	shovel
+814	0.00011576255201362	spatula
+463	0.00011089584586443	broom
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00024312.png
+620	0.52897322177887	lampshade, lamp shade
+847	0.31088101863861	table lamp
+7	0.017306352034211	stingray
+846	0.014518275856972	syringe
+793	0.013568866997957	shovel
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00025719.png
+847	0.70980072021484	table lamp
+620	0.29015210270882	lampshade, lamp shade
+819	1.5211531717796e-05	spotlight, spot
+805	4.9394461711927e-06	soap dispenser
+709	4.0368213376496e-06	pedestal, plinth, footstall
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00030598.png
+847	0.60145050287247	table lamp
+620	0.39690718054771	lampshade, lamp shade
+819	0.00022621740936302	spotlight, spot
+449	0.00021964985353407	birdhouse
+573	0.00015826821618248	goblet
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00034241.png
+847	0.54039913415909	table lamp
+620	0.45518627762794	lampshade, lamp shade
+819	0.0025249854661524	spotlight, spot
+573	0.00019291476928629	goblet
+546	0.00012308395525906	electric fan, blower
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00040162.png
+847	0.55437660217285	table lamp
+620	0.4455943107605	lampshade, lamp shade
+573	2.3003405658528e-05	goblet
+819	1.3981407391839e-06	spotlight, spot
+449	7.1137679924504e-07	birdhouse
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/847/ILSVRC2012_val_00041421.png
+847	0.54574191570282	table lamp
+620	0.45357647538185	lampshade, lamp shade
+793	0.00010985769768013	shovel
+819	7.2100541729014e-05	spotlight, spot
+814	7.0546026108786e-05	spatula
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00004662.png
+893	0.84466177225113	wall clock
+410	0.13713030517101	analog clock
+636	0.009180361405015	magnetic compass
+427	0.00665119336918	barometer
+836	0.0017914252821356	sundial
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00007256.png
+893	0.74188542366028	wall clock
+410	0.25392955541611	analog clock
+827	0.001934380736202	stopwatch, stop watch
+427	0.00078628759365529	barometer
+770	0.0005533458897844	rule, ruler
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00008740.png
+427	0.28760254383087	barometer
+456	0.12611278891563	bottlecap
+893	0.11698818206787	wall clock
+636	0.082182511687279	magnetic compass
+79	0.056730028241873	tick
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00014169.png
+410	0.58041310310364	analog clock
+893	0.388034760952	wall clock
+636	0.022700674831867	magnetic compass
+836	0.0054907612502575	sundial
+427	0.0027137647848576	barometer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00018143.png
+893	0.67343091964722	wall clock
+410	0.29845520853996	analog clock
+636	0.011925577186048	magnetic compass
+427	0.0049853874370456	barometer
+827	0.0030390347819775	stopwatch, stop watch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00018976.png
+410	0.41388720273972	analog clock
+893	0.24859854578972	wall clock
+770	0.21325233578682	rule, ruler
+636	0.012310704216361	magnetic compass
+427	0.012128904461861	barometer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00030330.png
+893	0.76411926746368	wall clock
+410	0.22979940474033	analog clock
+427	0.0020413708407432	barometer
+827	0.0017492104088888	stopwatch, stop watch
+456	0.001094197970815	bottlecap
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00041461.png
+893	0.59875780344009	wall clock
+410	0.31937158107758	analog clock
+686	0.072793863713741	odometer, hodometer, mileometer, milometer
+427	0.004012584220618	barometer
+827	0.003326901467517	stopwatch, stop watch
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00041715.png
+893	0.88570296764374	wall clock
+410	0.10999317467213	analog clock
+827	0.0027705973479897	stopwatch, stop watch
+770	0.00045937241520733	rule, ruler
+427	0.00043706057476811	barometer
+Classes for /media/noor/DataNS/Imagesets/DNimal_I_background/stim_allnoise/w_background/893/ILSVRC2012_val_00046034.png
+893	0.86651343107224	wall clock
+410	0.10099742561579	analog clock
+427	0.019811814650893	barometer
+636	0.0072537367232144	magnetic compass
+827	0.0028982241638005	stopwatch, stop watch
